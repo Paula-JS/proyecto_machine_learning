@@ -1,0 +1,1458 @@
+<div class="row">
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 col-md-offset-0 col-sm-offset-3 container-sidebar ">
+        <aside id="sidebar" class="sidebar-white">
+    <div id="houzez_advanced_search-1" class="widget widget_houzez_advanced_search">        <div class="widget-range">
+            <div class="widget-body">
+                <form autocomplete="off" method="get" action="https://facilhouse.com/search-result-page/">
+                    <div class="range-block rang-form-block">
+                        <div class="row">
+                            <div class="titol-cercador">
+                                <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E" title="Buscar casas" alt="Buscar casas" width="30" height="30" style="float:left; padding-right: 5px;" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/casa.svg"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/casa.svg" title="Buscar casas" alt="Buscar casas" width="30" height="30" style="float:left; padding-right: 5px;"></noscript> Encuentra tu casa:
+                            </div>
+                            
+                            
+                            
+                            
+                            
+                            
+                                                        
+                                                                                        <div class="col-sm-12 col-xs-12 ubicacion-parcela">
+                                    <div class="form-group">
+                                    <div class="h4" style="margin-bottom: 0px;">Ubicación de la parcela</div> <!-- globals - nou --> 
+                                        <select class="selectpicker bs-select-hidden" id="widget_status" name="status" data-live-search="false">
+                                            <option value="">¿Dónde está tu parcela?</option><option value="a-coruna"> A Coruña</option><option value="alava"> Álava</option><option value="albacete"> Albacete</option><option value="alicante"> Alicante</option><option value="almeria"> Almería</option><option value="asturias"> Asturias</option><option value="avila"> Ávila</option><option value="badajoz"> Badajoz</option><option value="barcelona"> Barcelona</option><option value="burgos"> Burgos</option><option value="caceres"> Cáceres</option><option value="cadiz"> Cádiz</option><option value="cantabria"> Cantabria</option><option value="castellon"> Castellón</option><option value="ciudad-real"> Ciudad Real</option><option value="cordoba"> Córdoba</option><option value="cuenca"> Cuenca</option><option value="girona"> Girona</option><option value="granada"> Granada</option><option value="guadalajara"> Guadalajara</option><option value="guipuzcoa"> Guipúzcoa</option><option value="huelva"> Huelva</option><option value="huesca"> Huesca</option><option value="islas-baleares"> Islas Baleares</option><option value="jaen"> Jaén</option><option value="la-rioja"> La Rioja</option><option value="las-palmas"> Las Palmas</option><option value="leon"> León</option><option value="lleida"> Lleida</option><option value="lugo"> Lugo</option><option value="madrid"> Madrid</option><option value="malaga"> Málaga</option><option value="murcia"> Murcia</option><option value="navarra"> Navarra</option><option value="orense"> Orense</option><option value="palencia"> Palencia</option><option value="pontevedra"> Pontevedra</option><option value="salamanca"> Salamanca</option><option value="santa-cruz-de-tenerife"> Santa Cruz de Tenerife</option><option value="segovia"> Segovia</option><option value="sevilla"> Sevilla</option><option value="soria"> Soria</option><option value="tarragona"> Tarragona</option><option value="teruel"> Teruel</option><option value="toledo"> Toledo</option><option value="valencia"> Valencia</option><option value="valladolid"> Valladolid</option><option value="vizcaya"> Vizcaya</option><option value="zamora"> Zamora</option><option value="zaragoza"> Zaragoza</option>                                        </select><div class="btn-group bootstrap-select"><button type="button" class="btn dropdown-toggle btn-default" data-toggle="dropdown" data-id="widget_status" title="¿Dónde está tu parcela?"><span class="filter-option pull-left">¿Dónde está tu parcela?</span>&nbsp;<span class="fa fa-sort"></span></button><div class="dropdown-menu open"><ul class="dropdown-menu inner" role="menu"><li data-original-index="0" class="selected"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">¿Dónde está tu parcela?</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="1"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> A Coruña</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="2"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Álava</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="3"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Albacete</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="4"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Alicante</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="5"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Almería</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="6"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Asturias</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="7"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Ávila</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="8"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Badajoz</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="9"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Barcelona</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="10"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Burgos</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="11"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Cáceres</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="12"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Cádiz</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="13"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Cantabria</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="14"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Castellón</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="15"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Ciudad Real</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="16"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Córdoba</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="17"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Cuenca</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="18"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Girona</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="19"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Granada</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="20"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Guadalajara</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="21"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Guipúzcoa</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="22"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Huelva</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="23"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Huesca</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="24"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Islas Baleares</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="25"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Jaén</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="26"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> La Rioja</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="27"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Las Palmas</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="28"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> León</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="29"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Lleida</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="30"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Lugo</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="31"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Madrid</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="32"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Málaga</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="33"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Murcia</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="34"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Navarra</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="35"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Orense</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="36"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Palencia</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="37"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Pontevedra</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="38"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Salamanca</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="39"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Santa Cruz de Tenerife</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="40"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Segovia</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="41"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Sevilla</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="42"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Soria</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="43"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Tarragona</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="44"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Teruel</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="45"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Toledo</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="46"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Valencia</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="47"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Valladolid</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="48"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Vizcaya</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="49"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Zamora</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="50"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Zaragoza</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li></ul></div></div>
+                                    </div>
+                                </div>
+                                                        
+
+                                                            <div class="col-sm-6 col-xs-12 beds">
+                                    <div class="form-group">
+                                    <div class="h4" style="margin-bottom: 0px;">Habitaciones</div> <!-- globals - nou --> 
+                                        <select name="bedrooms" class="selectpicker bs-select-hidden" data-live-search="false" title="">
+                                            <option value="">Indiferente</option>
+                                            <option value="1">1 Habitaciones</option><option value="2">2 Habitaciones</option><option value="3">3 Habitaciones</option><option value="4">4 Habitaciones</option><option value="5">5 Habitaciones</option><option value="any">Indiferente</option>                                        </select><div class="btn-group bootstrap-select"><button type="button" class="btn dropdown-toggle btn-default" data-toggle="dropdown" title="Indiferente"><span class="filter-option pull-left">Indiferente</span>&nbsp;<span class="fa fa-sort"></span></button><div class="dropdown-menu open"><ul class="dropdown-menu inner" role="menu"><li data-original-index="0" class="selected"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Indiferente</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="1"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">1 Habitaciones</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="2"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">2 Habitaciones</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="3"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">3 Habitaciones</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="4"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">4 Habitaciones</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="5"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">5 Habitaciones</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="6"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Indiferente</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li></ul></div></div>
+                                    </div>
+                                </div>
+                            
+                                                            <div class="col-sm-6 col-xs-12 baths">
+                                    <div class="form-group">
+                                    <div class="h4" style="margin-bottom: 0px;">Baños</div> <!-- globals - nou --> 
+                                        <select name="bathrooms" class="selectpicker bs-select-hidden" data-live-search="false" title="">
+                                            <option value="">Indiferente</option>
+                                            <option value="0">0 Baños</option><option value="1">1 Baños</option><option value="2">2 Baños</option><option value="3">3 Baños</option><option value="4">4 Baños</option><option value="any">Indiferente</option>                                        </select><div class="btn-group bootstrap-select"><button type="button" class="btn dropdown-toggle btn-default" data-toggle="dropdown" title="Indiferente"><span class="filter-option pull-left">Indiferente</span>&nbsp;<span class="fa fa-sort"></span></button><div class="dropdown-menu open"><ul class="dropdown-menu inner" role="menu"><li data-original-index="0" class="selected"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Indiferente</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="1"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">0 Baños</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="2"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">1 Baños</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="3"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">2 Baños</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="4"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">3 Baños</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="5"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">4 Baños</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="6"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Indiferente</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li></ul></div></div>
+                                    </div>
+                                </div>
+                            
+                                                            <div class="col-sm-12 col-xs-12 materiales">
+                                    <div class="form-group">
+                                    <div class="h4" style="margin-bottom: 0px;">Materiales</div> <!-- globals - nou --> 
+                                        <select name="type" class="selectpicker bs-select-hidden" data-live-search="false">
+                                            <option value="">Indiferente</option><option value="casas-modulares"> Casas modulares</option><option value="prefabricadas-acero"> Casas prefabricadas de acero</option><option value="prefabricadas-hormigon"> Casas prefabricadas de hormigón</option><option value="casas-madera"> Casas prefabricadas de madera</option><option value="casetas"> Casetas</option>                                        </select><div class="btn-group bootstrap-select"><button type="button" class="btn dropdown-toggle btn-default" data-toggle="dropdown" title="Indiferente"><span class="filter-option pull-left">Indiferente</span>&nbsp;<span class="fa fa-sort"></span></button><div class="dropdown-menu open"><ul class="dropdown-menu inner" role="menu"><li data-original-index="0" class="selected"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Indiferente</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="1"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Casas modulares</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="2"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Casas prefabricadas de acero</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="3"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Casas prefabricadas de hormigón</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="4"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Casas prefabricadas de madera</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="5"><a tabindex="0" class="" style="" data-tokens="null"><span class="text"> Casetas</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li></ul></div></div>
+                                    </div>
+                                </div>
+                            
+                            
+                            
+                                                        <div class="col-sm-12 col-xs-12">
+                                                            <div class="form-group">
+                                                            <div class="h4" style="margin-bottom: 0px;">Estilo</div> <!-- globals - nou --> 
+                                                                <select name="estilo1548430752f5c4b2da0bee2b" class="selectpicker bs-select-hidden" data-live-search="false" data-live-search-style="begins" title="">
+                                                                <option value="">Indiferente</option>
+                                                                <option value="Moderno">Moderno</option><option value="Clásico">Clásico</option>                                                                </select><div class="btn-group bootstrap-select"><button type="button" class="btn dropdown-toggle btn-default" data-toggle="dropdown" title="Indiferente"><span class="filter-option pull-left">Indiferente</span>&nbsp;<span class="fa fa-sort"></span></button><div class="dropdown-menu open"><ul class="dropdown-menu inner" role="menu"><li data-original-index="0" class="selected"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Indiferente</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="1"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Moderno</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="2"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Clásico</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li></ul></div></div>
+                                                            </div>
+                                                        </div>
+
+                                                    
+                            
+                                                                                                <div class="col-sm-6 col-xs-12">
+                                        <div class="form-group prices-for-all">
+                                        <div class="h4" style="margin-bottom: 0px;">Precio mín.</div> <!-- globals - nou -->    
+                                            <select name="min-price" class="selectpicker bs-select-hidden" data-live-search="false" data-live-search-style="begins" title="">
+                                                <!--<option value="">Precio mínimo</option>-->
+                                                <option value="any">Indiferente</option><option value="20000">20.000 €</option><option value="30000">30.000 €</option><option value="40000">40.000 €</option><option value="50000">50.000 €</option><option value="60000">60.000 €</option><option value="70000">70.000 €</option><option value="80000">80.000 €</option><option value="90000">90.000 €</option><option value="100000">100.000 €</option><option value="120000">120.000 €</option><option value="150000">150.000 €</option>                                            </select><div class="btn-group bootstrap-select"><button type="button" class="btn dropdown-toggle btn-default" data-toggle="dropdown" title="Indiferente"><span class="filter-option pull-left">Indiferente</span>&nbsp;<span class="fa fa-sort"></span></button><div class="dropdown-menu open"><ul class="dropdown-menu inner" role="menu"><li data-original-index="0" class="selected"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Indiferente</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="1"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">20.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="2"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">30.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="3"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">40.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="4"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">50.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="5"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">60.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="6"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">70.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="7"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">80.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="8"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">90.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="9"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">100.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="10"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">120.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="11"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">150.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li></ul></div></div>
+                                        </div>
+                                        <div class="form-group hide prices-only-for-rent">
+                                            <select name="min-price" disabled="" class="selectpicker bs-select-hidden" data-live-search="false" data-live-search-style="begins" title="">
+                                                <option value="">Precio mínimo</option>
+                                                <option value="any">Indiferente</option><option value="15000">15.000 €</option><option value="20000">20.000 €</option><option value="25000">25.000 €</option><option value="30000">30.000 €</option><option value="40000">40.000 €</option><option value="50000">50.000 €</option><option value="75000">75.000 €</option><option value="100000">100.000 €</option>                                            </select><div class="btn-group bootstrap-select disabled"><button type="button" class="btn dropdown-toggle disabled btn-default" data-toggle="dropdown" tabindex="-1" title="Precio mínimo"><span class="filter-option pull-left">Precio mínimo</span>&nbsp;<span class="fa fa-sort"></span></button><div class="dropdown-menu open"><ul class="dropdown-menu inner" role="menu"><li data-original-index="0" class="selected"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Precio mínimo</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="1"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Indiferente</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="2"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">15.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="3"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">20.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="4"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">25.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="5"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">30.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="6"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">40.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="7"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">50.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="8"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">75.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="9"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">100.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li></ul></div></div>
+                                        </div>
+                                    </div>
+                                
+                                                                    <div class="col-sm-6 col-xs-12">
+                                        <div class="form-group prices-for-all">
+                                        <div class="h4" style="margin-bottom: 0px;">Precio máx.</div> <!-- globals - nou -->
+                                            <select name="max-price" class="selectpicker bs-select-hidden" data-live-search="false" data-live-search-style="begins" title="">
+                                               <!--<option value="">Precio máximo</option>-->
+                                                <option value="any">Indiferente</option><option value="30000">30.000 €</option><option value="40000">40.000 €</option><option value="50000">50.000 €</option><option value="75000">75.000 €</option><option value="90000">90.000 €</option><option value="100000">100.000 €</option><option value="150000">150.000 €</option><option value="200000">200.000 €</option><option value="250000">250.000 €</option><option value="300000">300.000 €</option><option value="350000">350.000 €</option><option value="400000">400.000 €</option>                                            </select><div class="btn-group bootstrap-select"><button type="button" class="btn dropdown-toggle btn-default" data-toggle="dropdown" title="Indiferente"><span class="filter-option pull-left">Indiferente</span>&nbsp;<span class="fa fa-sort"></span></button><div class="dropdown-menu open"><ul class="dropdown-menu inner" role="menu"><li data-original-index="0" class="selected"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Indiferente</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="1"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">30.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="2"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">40.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="3"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">50.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="4"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">75.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="5"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">90.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="6"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">100.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="7"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">150.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="8"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">200.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="9"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">250.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="10"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">300.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="11"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">350.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="12"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">400.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li></ul></div></div>
+                                        </div>
+                                        <div class="form-group hide prices-only-for-rent">
+                                            <select name="max-price" disabled="" class="selectpicker bs-select-hidden" data-live-search="false" data-live-search-style="begins" title="">
+                                                <option value="">Precio máximo</option>
+                                                <option value="any">Indiferente</option><option value="1000">1.000 €</option><option value="2000">2.000 €</option><option value="3000">3.000 €</option><option value="4000">4.000 €</option><option value="5000">5.000 €</option><option value="7500">7.500 €</option><option value="10000">10.000 €</option><option value="15000">15.000 €</option><option value="20000">20.000 €</option><option value="25000">25.000 €</option><option value="30000">30.000 €</option><option value="40000">40.000 €</option><option value="50000">50.000 €</option><option value="75000">75.000 €</option><option value="100000">100.000 €</option><option value="150000">150.000 €</option>                                            </select><div class="btn-group bootstrap-select disabled"><button type="button" class="btn dropdown-toggle disabled btn-default" data-toggle="dropdown" tabindex="-1" title="Precio máximo"><span class="filter-option pull-left">Precio máximo</span>&nbsp;<span class="fa fa-sort"></span></button><div class="dropdown-menu open"><ul class="dropdown-menu inner" role="menu"><li data-original-index="0" class="selected"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Precio máximo</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="1"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Indiferente</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="2"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">1.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="3"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">2.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="4"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">3.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="5"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">4.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="6"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">5.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="7"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">7.500 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="8"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">10.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="9"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">15.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="10"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">20.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="11"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">25.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="12"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">30.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="13"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">40.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="14"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">50.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="15"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">75.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="16"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">100.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="17"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">150.000 €</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li></ul></div></div>
+                                        </div>
+                                    </div>
+                                                            
+                        </div>
+                    </div>
+
+                    
+
+                                            <div class="range-block">
+                            <div class="h4">Superficie</div>
+
+                            <div id="slider-size" class="ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all"><div class="ui-slider-range ui-widget-header ui-corner-all" style="left: 0%; width: 100%;"></div><span class="ui-slider-handle ui-state-default ui-corner-all" tabindex="0" style="left: 0%;"></span><span class="ui-slider-handle ui-state-default ui-corner-all" tabindex="0" style="left: 100%;"></span></div>
+                            <div class="clearfix range-text">
+                                <input type="text" name="min-area" class="pull-left range-input text-left" id="min-size" readonly="">
+                                <input type="text" name="max-area" class="pull-right range-input text-right" id="max-size" readonly="">
+                            </div>
+                        </div>
+                    
+                                        
+                                        <input type="hidden" name="sortby" value="featured_first">
+
+                    <div class="range-block rang-form-block">
+                        <div class="row">
+                            <div class="col-sm-12 col-xs-12">
+                                <button type="submit" class="btn btn-secondary btn-block"><i class="fa fa-search fa-left"></i>Buscar casas</button>
+                            </div>
+                        </div>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+        </div><div id="adrotate_widgets-29" class="widget adrotate_widgets"><div class="widget-top"><h3 class="widget-title">Te puede interesar</h3></div><div class="a-single a-3"><!-- Quadrat -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8556503325490944" data-ad-slot="5284291399" data-ad-format="rectangle, horizontal" data-full-width-responsive="true" data-adsbygoogle-status="done"></ins></div></div><div id="adrotate_widgets-23" class="widget adrotate_widgets"><div class="widget-top"><h3 class="widget-title">Empresas destacadas:</h3></div><div class="g g-2"><div class="g-col b-2 a-47"><a class="gofollow" data-track="NDcsMiwxLDYw" title="Norges Hus" href="https://facilhouse.com/empresa/norgeshus/">
+  <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Norges Hus" data-lazy-src="https://facilhouse.com/wp-content/uploads/2023/09/casa-madera-norgeshus-modelo148-1.jpeg"><noscript><img src="https://facilhouse.com/wp-content/uploads/2023/09/casa-madera-norgeshus-modelo148-1.jpeg" alt="Norges Hus"/></noscript>
+  <div class="bloque-titulo-emp">
+    <div class="titulo-anuncio-emp">Norges Hus</div>
+    <div class="mat-casas">Casas de madera</div>
+  </div>
+  <div class="bloque-construye">
+    <div class="t-construye">Construye en:</div>
+    <div class="construye-empresa">Península, Baleares y Canarias</div>
+  </div>
+</a></div></div><div class="g g-2"><div class="g-col b-2 a-48"><a class="gofollow" data-track="NDgsMiwxLDYw" title="La Casa ESE" href="https://facilhouse.com/empresa/lacasaese/">
+  <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="La Casa ESE" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/08/casa-hormigon-lacasaese-ese-5.jpg"><noscript><img src="https://facilhouse.com/wp-content/uploads/2022/08/casa-hormigon-lacasaese-ese-5.jpg" alt="La Casa ESE"/></noscript>
+  <div class="bloque-titulo-emp">
+    <div class="titulo-anuncio-emp">La Casa ESE</div>
+    <div class="mat-casas">Casas de acero y hormigón</div>
+  </div>
+  <div class="bloque-construye">
+    <div class="t-construye">Construye en:</div>
+    <div class="construye-empresa">Andalucia, Asturias y Valencia</div>
+  </div>
+</a></div></div><div class="g g-2"><div class="g-col b-2 a-39"><a class="gofollow" data-track="MzksMiwxLDYw" title="Grupo Herrera" href="https://facilhouse.com/empresa/grupoherrera/">
+  <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Grupo Herrera" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/10/casa-acero-grupoherrera-gardenpool-4.jpg"><noscript><img src="https://facilhouse.com/wp-content/uploads/2022/10/casa-acero-grupoherrera-gardenpool-4.jpg" alt="Grupo Herrera"/></noscript>
+  <div class="bloque-titulo-emp">
+    <div class="titulo-anuncio-emp">Grupo Herrera</div>
+    <div class="mat-casas">Casas de acero</div>
+  </div>
+  <div class="bloque-construye">
+    <div class="t-construye">Construye en:</div>
+    <div class="construye-empresa">Península, Baleares y Canarias</div>
+  </div>
+</a></div></div></div></aside>
+        
+    </div> <!-- end container-sidebar -->
+    
+    <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 list-grid-area container-contentbar">
+        <div id="content-area">
+            
+            <!--start list tabs-->
+                        <!--end list tabs-->
+
+           <!--start featured property items CALPE (id 15089) A HOME -->
+                       <!--end featured property items CALPE HOME-->
+           <!--start featured property items CALELLA (id 15028) A HOME -->
+                       <!--end featured property items CALELLA HOME-->   
+           <!--start featured property items ROSES (id 23058) A HOME -->
+                       <!--end featured property items ROSES HOME-->        
+           <!--start featured property items BEGUR (id 23029) A HOME -->
+                       <!--end featured property items BEGUR HOME-->                            
+           <!--start featured property items CADAQUES (id 23066) A HOME -->
+                       <!--end featured property items CADAQUES HOME--> 
+           <!--start featured property items SITGES (id 15059) A HOME -->
+                       <!--end featured property items SITGES HOME-->   
+           <!--start featured property items LLAFRANC (id 23076) A PAG. MODULARES -->
+                       <!--end featured property items LLAFRANC (id 23076) A PAG. MODULARES-->  
+           <!--start featured property items LATOJA (id 15071) A PAG. MADERA -->
+                       <!--end featured property items LATOJA (id 15071) A PAG. MADERA-->
+           <!--start featured property items CHIPIONA (id 15158) A PAG. ACERO -->
+                       <!--end featured property items CHIPIONA (id 15158) A PAG. ACERO--> 
+           <!--start featured property items DELTA (id 15009) A PAG. MINICASAS -->
+                       <!--end featured property items DELTA (id 15009) A PAG. MINICASAS-->
+
+           <!--start featured property items VILA RAI (ID 20721) A PAGS. ANDALUCIA I PROVINCIES-->
+                       <!--end featured property items VILA RAI A PAGS. ANDALUCIA I PROVINCIES-->     
+            
+           <!--start featured property items FUENGIROLA (id 15170) A PAG. BARCELONA -->
+                       <!--end featured property items FUENGIROLA (id 15170) A PAG. BARCELONA-->      
+            
+           <!--start featured property items VINAROZ (id 15095) A PAG. MINICASAS-->
+                       <!--end featured property items VINAROZ MINICASAS id 15095-->             
+            
+           <!--start featured property items LA TOJA (id 15071) A PAG. TARRAGONA -->
+                       <!--end featured property items LA TOJA (id 15071) A PAG. TARRAGONA-->    
+            
+           <!--start featured property items MOTRIL (id 15115) A PAG. GIRONA -->
+                       <!--end featured property items MOTRIL (id 15115) A PAG. GIRONA-->         
+            
+           <!--start featured property items VILANOVA (id 15077) A PAG. LLEIDA -->
+                       <!--end featured property items VILANOVA (id 15077) A PAG. LLEIDA-->                
+
+            <!--start featured property items-->
+                        <!--end featured property items-->
+
+
+
+            <!--start property items-->
+            <div class="property-listing grid-view">
+                <div class="row">
+
+                    
+<!-- MOSTRAR SOLO MODELOS -->
+     
+<!-- MODELOS: -->
+        <div id="ID-23792" class="item-wrap infobox_trigger  item-modelo-2p-t4-r01">
+            <!-- nou disseny desktop/tablet -->
+            <div class="etiqueta-destacada" style="height:0">
+                            </div>
+            <div class="property-item property-item-flex">
+               
+                <div class="imatge-flex">
+                                                           <!-- -->
+                        <!-- Slider main container -->
+                        <div class="swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
+                            <!-- Additional required wrapper -->
+                            <div class="swiper-wrapper" id="swiper-wrapper-6e10d1572dcbb7842" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+                                <!-- Slides -->
+                                <img alt="Modelo 2P T4 R01" data-id="https://facilhouse.com/modelo-casa/modelo-2p-t4-r01/" class="swiper-slide entered lazyloaded swiper-slide-active" src="https://facilhouse.com/wp-content/uploads/2022/02/casa-acero-modiko-2pt4r01-570x340.jpg" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/02/casa-acero-modiko-2pt4r01-570x340.jpg" data-ll-status="loaded" role="group" aria-label="1 / 3" style="width: 464px;"><noscript><img alt="Modelo 2P T4 R01" data-id="https://facilhouse.com/modelo-casa/modelo-2p-t4-r01/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/02/casa-acero-modiko-2pt4r01-570x340.jpg"></noscript><img alt="Modelo 2P T4 R01" data-id="https://facilhouse.com/modelo-casa/modelo-2p-t4-r01/" class="swiper-slide entered lazyloaded swiper-slide-next" src="https://facilhouse.com/wp-content/uploads/2022/02/casa-acero-modiko-2pt4r01-2-570x340.jpg" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/02/casa-acero-modiko-2pt4r01-2-570x340.jpg" data-ll-status="loaded" role="group" aria-label="2 / 3" style="width: 464px;"><noscript><img alt="Modelo 2P T4 R01" data-id="https://facilhouse.com/modelo-casa/modelo-2p-t4-r01/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/02/casa-acero-modiko-2pt4r01-2-570x340.jpg"></noscript><img alt="Modelo 2P T4 R01" data-id="https://facilhouse.com/modelo-casa/modelo-2p-t4-r01/" class="swiper-slide" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/02/casa-acero-modiko-2pt4r01-1-570x340.jpg" role="group" aria-label="3 / 3" style="width: 464px;"><noscript><img alt="Modelo 2P T4 R01" data-id="https://facilhouse.com/modelo-casa/modelo-2p-t4-r01/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/02/casa-acero-modiko-2pt4r01-1-570x340.jpg"></noscript>                                ...
+                            </div>
+                            <!-- pagination -->
+                            <div class="swiper-pagination swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" aria-current="true"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span></div>
+
+                            <!-- navigation buttons -->
+                            <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-6e10d1572dcbb7842" aria-disabled="true"></div>
+                            <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-6e10d1572dcbb7842" aria-disabled="false"></div>
+                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                    <!-- -->                                   
+                </div>
+      
+                <div class="caracteristicas-flex">
+                    <div class="titulo-precio">
+                        <div class="property-title-flex">
+                            <a href="https://facilhouse.com/modelo-casa/modelo-2p-t4-r01/">Modelo 2P T4 R01</a>
+                        </div>
+                        <div class="price-flex" style="">
+                            <span class="item-price">Consultar</span>                            
+                        </div>
+                    </div>
+                    <div class="amenities-materiales">
+                        <div class="amenities-flex">
+                            <p><span class="h-beds"><img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/cama.svg" alt="habitaciones" width="20" height="20" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/cama.svg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/cama.svg" alt="habitaciones" width="20" height="20"></noscript>: 3</span><span class="h-baths"><img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/banyera.svg" alt="Baños" width="13" height="13" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/banyera.svg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/banyera.svg" alt="Baños" width="13" height="13"></noscript>: 3</span><span class="h-area">214 m²</span></p>                        </div>              
+                        <div class="materiales-flex">
+                            <p><span>|&nbsp;&nbsp;</span>
+                                                                acero                            </p>                            
+                        </div>
+                    </div>
+                    <div class="empresa-items-flex">
+                        <div style="font-size:14px;" class="text-empresa-flex">
+                            Empresa:
+                        </div>
+                        <div style="font-weight:bold" class="empresa-flex prop-user-agent">
+                                                                                            
+                                
+                            
+                                                            <a href="https://facilhouse.com/empresa/modiko/">Modiko</a>                                                     </div>
+                    </div>
+                    <div class="contactes-empresa-flex">
+                        <div class="telefon-flex">
+                                                            <!-- telèfon en ús  -->
+                                                                                                <div class="num-telefono" id="modelo2pt4r01p" style="display:none;">
+                                    667 960 338                                </div>
+                                <!-- ver tel. -->
+                                                                        <form method="post" action="" id="vertel_form-23792" style="display:inline;">
+                                        <input type="hidden" name="vertel_ajax_nonce" id="vertel_ajax_nonce-23792" value="afc43b6c0e">
+                                        <input type="hidden" name="action" value="vertel_agent">
+                                        <input type="hidden" name="empresa" value="Modiko ">
+                                        <input type="hidden" name="propiedad" value="Modelo 2P T4 R01">
+                                        <input type="hidden" name="fechahora" value="2024-12-10 17:01:34">
+                                        <input type="hidden" name="clicbtn" value="1">
+                                        <button type="submit" title="Click para mostrar el teléfono" id="modelo2pt4r01" class="vertel_agent_btn llamar-mobile" data-id="23792">
+                                            <img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/telefono_azul.svg" alt="teléfono" class="icons-profiles entered lazyloaded" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/telefono_azul.svg" data-ll-status="loaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/telefono_azul.svg" alt="teléfono" class="icons-profiles" width="16" height="16"></noscript>Ver tel.                                        </button>
+                                    </form>
+                                <!--/ ver tel. -->
+                                                    </div>
+                                                
+                            <div class="whatsapp-flex">
+                            <a id="a_whatsapp-23792" href="https://wa.me/667960338?text=Hola,%20me%20interesa%20la%20casa%20«Modelo 2P T4 R01»" target="_blank" title="Me interesa la casa «Modelo 2P T4 R01»" alt="Contactar mediante WhapsApp" style="display:none;visibility:hidden;opacity:0">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%2016'%3E%3C/svg%3E" alt="Whatsapp" class="icons-profiles" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" alt="Whatsapp" class="icons-profiles" width="16" height="16"></noscript><span>WhatsApp</span>
+                                </a>
+                                <!-- whatsapp -->
+                                                                <form method="post" action="" id="whatsapp_form-23792" style="display:inline;">
+                                    <input type="hidden" name="whatsapp_ajax_nonce" id="whatsapp_ajax_nonce-23792" value="7c5a7f5666">
+                                    <input type="hidden" name="action" value="whatsapp_agent">
+                                    <input type="hidden" name="empresa" value="Modiko ">
+                                    <input type="hidden" name="propiedad" value="Modelo 2P T4 R01">
+                                    <input type="hidden" name="fechahora" value="2024-12-10 17:01:34">
+                                    <input type="hidden" name="clicbtn" value="1">
+                                    <button type="submit" title="Me interesa la casa «Modelo 2P T4 R01»" id="whatsapp_agent_btn-23792" class="whatsapp_agent_btn btn-whatsapp-m" data-id="23792">
+                                            <img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" alt="Contactar mediante WhapsApp" class="icons-profiles entered lazyloaded" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" data-ll-status="loaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" alt="Contactar mediante WhapsApp" class="icons-profiles" width="16" height="16"></noscript>
+                                            <span>WhatsApp</span>
+                                    </button>
+                                </form>                                
+                                <!--/ whatsapp-->  
+                            </div>
+                                                <div class="contactar-flex">
+                            <button type="button" class="btn btn-primary boto boto-flex" title="Contacta con la empresa" data-toggle="modal" data-id="23792" data-authorid="83" data-target="#myModalContact-23792">
+                                    <img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/correo_azul.svg" alt="Contactar" class="icons-profiles entered lazyloaded" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/correo_azul.svg" data-ll-status="loaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/correo_azul.svg" alt="Contactar" class="icons-profiles" width="16" height="16"></noscript>Contactar                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div><!--/ property-item -->
+            <div style="height:0;max-width:50%;display:flex">
+                    <span class="simplefavorite-button" data-postid="23792" data-siteid="1" data-groupid="1" data-favoritecount="0" style=""><div title="Guardar casa" class="heart-empty"></div></span>                </div>
+            <!--/ nou disseny desktop/tablet -->
+                    </div> <!-- end item-wrap (for desktop/tablet)--> 
+
+            <!-- Modal contactar -->
+        <div id="myModalContact-23792" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal"><i style="font-size:28px;" class="fa fa-times" aria-hidden="true"></i></button>
+                        <p class="modal-title fhmodal">Contactar</p>
+                    </div>
+                    <div class="modal-body">
+                        <p>Loading...</p>
+                    </div>
+                </div>
+            </div>
+        </div> <!-- fin modal contactar -->
+
+<!-- MOSTRAR SOLO MODELOS -->
+     
+<!-- MODELOS: -->
+        <div id="ID-21987" class="item-wrap infobox_trigger  item-marbella">
+            <!-- nou disseny desktop/tablet -->
+            <div class="etiqueta-destacada" style="height:0">
+                            </div>
+            <div class="property-item property-item-flex">
+               
+                <div class="imatge-flex">
+                                                           <!-- -->
+                        <!-- Slider main container -->
+                        <div class="swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
+                            <!-- Additional required wrapper -->
+                            <div class="swiper-wrapper" id="swiper-wrapper-794136151695cde6" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+                                <!-- Slides -->
+                                <img alt="Marbella" data-id="https://facilhouse.com/modelo-casa/marbella/" class="swiper-slide entered lazyloaded swiper-slide-active" src="https://facilhouse.com/wp-content/uploads/2021/10/casa-madera-luxservisecoedificaciones-marbella-570x340.jpeg" data-lazy-src="https://facilhouse.com/wp-content/uploads/2021/10/casa-madera-luxservisecoedificaciones-marbella-570x340.jpeg" data-ll-status="loaded" role="group" aria-label="1 / 3" style="width: 464px;"><noscript><img alt="Marbella" data-id="https://facilhouse.com/modelo-casa/marbella/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2021/10/casa-madera-luxservisecoedificaciones-marbella-570x340.jpeg"></noscript><img alt="Marbella" data-id="https://facilhouse.com/modelo-casa/marbella/" class="swiper-slide entered lazyloaded swiper-slide-next" src="https://facilhouse.com/wp-content/uploads/2021/10/casa-madera-luxservisecoedificaciones-marbella-1-570x340.jpeg" data-lazy-src="https://facilhouse.com/wp-content/uploads/2021/10/casa-madera-luxservisecoedificaciones-marbella-1-570x340.jpeg" data-ll-status="loaded" role="group" aria-label="2 / 3" style="width: 464px;"><noscript><img alt="Marbella" data-id="https://facilhouse.com/modelo-casa/marbella/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2021/10/casa-madera-luxservisecoedificaciones-marbella-1-570x340.jpeg"></noscript><img alt="Marbella" data-id="https://facilhouse.com/modelo-casa/marbella/" class="swiper-slide" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://facilhouse.com/wp-content/uploads/2021/10/casa-madera-luxservisecoedificaciones-marbella-2-570x340.jpeg" role="group" aria-label="3 / 3" style="width: 464px;"><noscript><img alt="Marbella" data-id="https://facilhouse.com/modelo-casa/marbella/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2021/10/casa-madera-luxservisecoedificaciones-marbella-2-570x340.jpeg"></noscript>                                ...
+                            </div>
+                            <!-- pagination -->
+                            <div class="swiper-pagination swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" aria-current="true"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span></div>
+
+                            <!-- navigation buttons -->
+                            <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-794136151695cde6" aria-disabled="true"></div>
+                            <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-794136151695cde6" aria-disabled="false"></div>
+                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                    <!-- -->                                   
+                </div>
+      
+                <div class="caracteristicas-flex">
+                    <div class="titulo-precio">
+                        <div class="property-title-flex">
+                            <a href="https://facilhouse.com/modelo-casa/marbella/">Marbella</a>
+                        </div>
+                        <div class="price-flex" style="">
+                            <span class="price-start">Desde</span><span class="item-price">153.500 €</span>                            
+                        </div>
+                    </div>
+                    <div class="amenities-materiales">
+                        <div class="amenities-flex">
+                            <p><span class="h-beds"><img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/cama.svg" alt="habitaciones" width="20" height="20" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/cama.svg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/cama.svg" alt="habitaciones" width="20" height="20"></noscript>: 2</span><span class="h-baths"><img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/banyera.svg" alt="Baños" width="13" height="13" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/banyera.svg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/banyera.svg" alt="Baños" width="13" height="13"></noscript>: 2</span><span class="h-area">140 m²</span></p>                        </div>              
+                        <div class="materiales-flex">
+                            <p><span>|&nbsp;&nbsp;</span>
+                                                                madera                            </p>                            
+                        </div>
+                    </div>
+                    <div class="empresa-items-flex">
+                        <div style="font-size:14px;" class="text-empresa-flex">
+                            Empresa:
+                        </div>
+                        <div style="font-weight:bold" class="empresa-flex prop-user-agent">
+                                                                                            
+                                
+                            
+                                                            <a href="https://facilhouse.com/empresa/luxservis/">LuxServis Eco Edificaciones</a>                                                     </div>
+                    </div>
+                    <div class="contactes-empresa-flex">
+                        <div class="telefon-flex">
+                                                            <!-- telèfon en ús  -->
+                                                                                                <div class="num-telefono" id="marbellap" style="display:none;">
+                                    602 826 412                                </div>
+                                <!-- ver tel. -->
+                                                                        <form method="post" action="" id="vertel_form-21987" style="display:inline;">
+                                        <input type="hidden" name="vertel_ajax_nonce" id="vertel_ajax_nonce-21987" value="afc43b6c0e">
+                                        <input type="hidden" name="action" value="vertel_agent">
+                                        <input type="hidden" name="empresa" value="LuxServis Eco Edificaciones ">
+                                        <input type="hidden" name="propiedad" value="Marbella">
+                                        <input type="hidden" name="fechahora" value="2024-12-10 17:01:34">
+                                        <input type="hidden" name="clicbtn" value="1">
+                                        <button type="submit" title="Click para mostrar el teléfono" id="marbella" class="vertel_agent_btn llamar-mobile" data-id="21987">
+                                            <img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/telefono_azul.svg" alt="teléfono" class="icons-profiles entered lazyloaded" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/telefono_azul.svg" data-ll-status="loaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/telefono_azul.svg" alt="teléfono" class="icons-profiles" width="16" height="16"></noscript>Ver tel.                                        </button>
+                                    </form>
+                                <!--/ ver tel. -->
+                                                    </div>
+                                                
+                            <div class="whatsapp-flex">
+                            <a id="a_whatsapp-21987" href="https://wa.me/602826412?text=Hola,%20me%20interesa%20la%20casa%20«Marbella»" target="_blank" title="Me interesa la casa «Marbella»" alt="Contactar mediante WhapsApp" style="display:none;visibility:hidden;opacity:0">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%2016'%3E%3C/svg%3E" alt="Whatsapp" class="icons-profiles" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" alt="Whatsapp" class="icons-profiles" width="16" height="16"></noscript><span>WhatsApp</span>
+                                </a>
+                                <!-- whatsapp -->
+                                                                <form method="post" action="" id="whatsapp_form-21987" style="display:inline;">
+                                    <input type="hidden" name="whatsapp_ajax_nonce" id="whatsapp_ajax_nonce-21987" value="7c5a7f5666">
+                                    <input type="hidden" name="action" value="whatsapp_agent">
+                                    <input type="hidden" name="empresa" value="LuxServis Eco Edificaciones ">
+                                    <input type="hidden" name="propiedad" value="Marbella">
+                                    <input type="hidden" name="fechahora" value="2024-12-10 17:01:34">
+                                    <input type="hidden" name="clicbtn" value="1">
+                                    <button type="submit" title="Me interesa la casa «Marbella»" id="whatsapp_agent_btn-21987" class="whatsapp_agent_btn btn-whatsapp-m" data-id="21987">
+                                            <img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" alt="Contactar mediante WhapsApp" class="icons-profiles entered lazyloaded" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" data-ll-status="loaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" alt="Contactar mediante WhapsApp" class="icons-profiles" width="16" height="16"></noscript>
+                                            <span>WhatsApp</span>
+                                    </button>
+                                </form>                                
+                                <!--/ whatsapp-->  
+                            </div>
+                                                <div class="contactar-flex">
+                            <button type="button" class="btn btn-primary boto boto-flex" title="Contacta con la empresa" data-toggle="modal" data-id="21987" data-authorid="132" data-target="#myModalContact-21987">
+                                    <img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/correo_azul.svg" alt="Contactar" class="icons-profiles entered lazyloaded" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/correo_azul.svg" data-ll-status="loaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/correo_azul.svg" alt="Contactar" class="icons-profiles" width="16" height="16"></noscript>Contactar                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div><!--/ property-item -->
+            <div style="height:0;max-width:50%;display:flex">
+                    <span class="simplefavorite-button" data-postid="21987" data-siteid="1" data-groupid="1" data-favoritecount="0" style=""><div title="Guardar casa" class="heart-empty"></div></span>                </div>
+            <!--/ nou disseny desktop/tablet -->
+                    </div> <!-- end item-wrap (for desktop/tablet)--> 
+
+            <!-- Modal contactar -->
+        <div id="myModalContact-21987" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal"><i style="font-size:28px;" class="fa fa-times" aria-hidden="true"></i></button>
+                        <p class="modal-title fhmodal">Contactar</p>
+                    </div>
+                    <div class="modal-body">
+                        <p>Loading...</p>
+                    </div>
+                </div>
+            </div>
+        </div> <!-- fin modal contactar -->
+
+<!-- MOSTRAR SOLO MODELOS -->
+     
+<!-- MODELOS: -->
+        <div id="ID-10332" class="item-wrap infobox_trigger  item-huesca">
+            <!-- nou disseny desktop/tablet -->
+            <div class="etiqueta-destacada" style="height:0">
+                            </div>
+            <div class="property-item property-item-flex">
+               
+                <div class="imatge-flex">
+                                                           <!-- -->
+                        <!-- Slider main container -->
+                        <div class="swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
+                            <!-- Additional required wrapper -->
+                            <div class="swiper-wrapper" id="swiper-wrapper-d67dd9c7f4a203f8" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+                                <!-- Slides -->
+                                <img alt="Huesca" data-id="https://facilhouse.com/modelo-casa/huesca/" class="swiper-slide entered lazyloaded swiper-slide-active" src="https://facilhouse.com/wp-content/uploads/2019/07/micasademadera_huesca_1-570x340.jpg" data-lazy-src="https://facilhouse.com/wp-content/uploads/2019/07/micasademadera_huesca_1-570x340.jpg" data-ll-status="loaded" role="group" aria-label="1 / 1" style="width: 464px;"><noscript><img alt="Huesca" data-id="https://facilhouse.com/modelo-casa/huesca/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2019/07/micasademadera_huesca_1-570x340.jpg"></noscript>                                ...
+                            </div>
+                            <!-- pagination -->
+                            <div class="swiper-pagination swiper-pagination-bullets swiper-pagination-horizontal swiper-pagination-lock"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" aria-current="true"></span></div>
+
+                            <!-- navigation buttons -->
+                            <div class="swiper-button-prev swiper-button-disabled swiper-button-lock" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-d67dd9c7f4a203f8" aria-disabled="true"></div>
+                            <div class="swiper-button-next swiper-button-disabled swiper-button-lock" tabindex="-1" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-d67dd9c7f4a203f8" aria-disabled="true"></div>
+                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                    <!-- -->                                   
+                </div>
+      
+                <div class="caracteristicas-flex">
+                    <div class="titulo-precio">
+                        <div class="property-title-flex">
+                            <a href="https://facilhouse.com/modelo-casa/huesca/">Huesca</a>
+                        </div>
+                        <div class="price-flex" style="">
+                            <span class="item-price">114.070 €</span>                            
+                        </div>
+                    </div>
+                    <div class="amenities-materiales">
+                        <div class="amenities-flex">
+                            <p><span class="h-beds"><img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/cama.svg" alt="habitaciones" width="20" height="20" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/cama.svg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/cama.svg" alt="habitaciones" width="20" height="20"></noscript>: 3</span><span class="h-baths"><img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/banyera.svg" alt="Baños" width="13" height="13" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/banyera.svg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/banyera.svg" alt="Baños" width="13" height="13"></noscript>: 1</span><span class="h-area">90 m²</span></p>                        </div>              
+                        <div class="materiales-flex">
+                            <p><span>|&nbsp;&nbsp;</span>
+                                                                madera                            </p>                            
+                        </div>
+                    </div>
+                    <div class="empresa-items-flex">
+                        <div style="font-size:14px;" class="text-empresa-flex">
+                            Empresa:
+                        </div>
+                        <div style="font-weight:bold" class="empresa-flex prop-user-agent">
+                                                                                            
+                                
+                            
+                                                            <a href="https://facilhouse.com/empresa/micasademadera/">Mi Casa de Madera</a>                                                     </div>
+                    </div>
+                    <div class="contactes-empresa-flex">
+                        <div class="telefon-flex">
+                                                            <!-- telèfon en ús  -->
+                                                                                                <div class="num-telefono" id="huescap" style="display:none;">
+                                    625 305 740                                </div>
+                                <!-- ver tel. -->
+                                                                        <form method="post" action="" id="vertel_form-10332" style="display:inline;">
+                                        <input type="hidden" name="vertel_ajax_nonce" id="vertel_ajax_nonce-10332" value="afc43b6c0e">
+                                        <input type="hidden" name="action" value="vertel_agent">
+                                        <input type="hidden" name="empresa" value="Mi Casa de Madera ">
+                                        <input type="hidden" name="propiedad" value="Huesca">
+                                        <input type="hidden" name="fechahora" value="2024-12-10 17:01:34">
+                                        <input type="hidden" name="clicbtn" value="1">
+                                        <button type="submit" title="Click para mostrar el teléfono" id="huesca" class="vertel_agent_btn llamar-mobile" data-id="10332">
+                                            <img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/telefono_azul.svg" alt="teléfono" class="icons-profiles entered lazyloaded" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/telefono_azul.svg" data-ll-status="loaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/telefono_azul.svg" alt="teléfono" class="icons-profiles" width="16" height="16"></noscript>Ver tel.                                        </button>
+                                    </form>
+                                <!--/ ver tel. -->
+                                                    </div>
+                                                
+                            <div class="whatsapp-flex">
+                            <a id="a_whatsapp-10332" href="https://wa.me/625305740?text=Hola,%20me%20interesa%20la%20casa%20«Huesca»" target="_blank" title="Me interesa la casa «Huesca»" alt="Contactar mediante WhapsApp" style="display:none;visibility:hidden;opacity:0">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%2016'%3E%3C/svg%3E" alt="Whatsapp" class="icons-profiles" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" alt="Whatsapp" class="icons-profiles" width="16" height="16"></noscript><span>WhatsApp</span>
+                                </a>
+                                <!-- whatsapp -->
+                                                                <form method="post" action="" id="whatsapp_form-10332" style="display:inline;">
+                                    <input type="hidden" name="whatsapp_ajax_nonce" id="whatsapp_ajax_nonce-10332" value="7c5a7f5666">
+                                    <input type="hidden" name="action" value="whatsapp_agent">
+                                    <input type="hidden" name="empresa" value="Mi Casa de Madera ">
+                                    <input type="hidden" name="propiedad" value="Huesca">
+                                    <input type="hidden" name="fechahora" value="2024-12-10 17:01:34">
+                                    <input type="hidden" name="clicbtn" value="1">
+                                    <button type="submit" title="Me interesa la casa «Huesca»" id="whatsapp_agent_btn-10332" class="whatsapp_agent_btn btn-whatsapp-m" data-id="10332">
+                                            <img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" alt="Contactar mediante WhapsApp" class="icons-profiles entered lazyloaded" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" data-ll-status="loaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" alt="Contactar mediante WhapsApp" class="icons-profiles" width="16" height="16"></noscript>
+                                            <span>WhatsApp</span>
+                                    </button>
+                                </form>                                
+                                <!--/ whatsapp-->  
+                            </div>
+                                                <div class="contactar-flex">
+                            <button type="button" class="btn btn-primary boto boto-flex" title="Contacta con la empresa" data-toggle="modal" data-id="10332" data-authorid="59" data-target="#myModalContact-10332">
+                                    <img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/correo_azul.svg" alt="Contactar" class="icons-profiles entered lazyloaded" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/correo_azul.svg" data-ll-status="loaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/correo_azul.svg" alt="Contactar" class="icons-profiles" width="16" height="16"></noscript>Contactar                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div><!--/ property-item -->
+            <div style="height:0;max-width:50%;display:flex">
+                    <span class="simplefavorite-button" data-postid="10332" data-siteid="1" data-groupid="1" data-favoritecount="0" style=""><div title="Guardar casa" class="heart-empty"></div></span>                </div>
+            <!--/ nou disseny desktop/tablet -->
+                    </div> <!-- end item-wrap (for desktop/tablet)--> 
+
+            <!-- Modal contactar -->
+        <div id="myModalContact-10332" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal"><i style="font-size:28px;" class="fa fa-times" aria-hidden="true"></i></button>
+                        <p class="modal-title fhmodal">Contactar</p>
+                    </div>
+                    <div class="modal-body">
+                        <p>Loading...</p>
+                    </div>
+                </div>
+            </div>
+        </div> <!-- fin modal contactar -->
+
+<!-- MOSTRAR SOLO MODELOS -->
+     
+<!-- MODELOS: -->
+        <div id="ID-25096" class="item-wrap infobox_trigger  item-ivalo">
+            <!-- nou disseny desktop/tablet -->
+            <div class="etiqueta-destacada" style="height:0">
+                            </div>
+            <div class="property-item property-item-flex">
+               
+                <div class="imatge-flex">
+                                                           <!-- -->
+                        <!-- Slider main container -->
+                        <div class="swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
+                            <!-- Additional required wrapper -->
+                            <div class="swiper-wrapper" id="swiper-wrapper-dc8e11510b271096d1" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+                                <!-- Slides -->
+                                <img alt="Ivalo" data-id="https://facilhouse.com/modelo-casa/ivalo/" class="swiper-slide entered lazyloaded swiper-slide-active" src="https://facilhouse.com/wp-content/uploads/2022/04/casa-madera-foresthouse-ivalo-4-570x340.jpg" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/04/casa-madera-foresthouse-ivalo-4-570x340.jpg" role="group" aria-label="1 / 7" style="width: 464px;" data-ll-status="loaded"><noscript><img alt="Ivalo" data-id="https://facilhouse.com/modelo-casa/ivalo/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/04/casa-madera-foresthouse-ivalo-4-570x340.jpg"></noscript><img alt="Ivalo" data-id="https://facilhouse.com/modelo-casa/ivalo/" class="swiper-slide entered lazyloaded swiper-slide-next" src="https://facilhouse.com/wp-content/uploads/2022/04/casa-madera-foresthouse-ivalo-5-copia-570x340.jpg" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/04/casa-madera-foresthouse-ivalo-5-copia-570x340.jpg" role="group" aria-label="2 / 7" style="width: 464px;" data-ll-status="loaded"><noscript><img alt="Ivalo" data-id="https://facilhouse.com/modelo-casa/ivalo/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/04/casa-madera-foresthouse-ivalo-5-copia-570x340.jpg"></noscript><img alt="Ivalo" data-id="https://facilhouse.com/modelo-casa/ivalo/" class="swiper-slide" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/04/casa-madera-foresthouse-ivalo-570x340.jpg" role="group" aria-label="3 / 7" style="width: 464px;"><noscript><img alt="Ivalo" data-id="https://facilhouse.com/modelo-casa/ivalo/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/04/casa-madera-foresthouse-ivalo-570x340.jpg"></noscript><img alt="Ivalo" data-id="https://facilhouse.com/modelo-casa/ivalo/" class="swiper-slide" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/04/casa-madera-foresthouse-ivalo-1-570x340.jpg" role="group" aria-label="4 / 7" style="width: 464px;"><noscript><img alt="Ivalo" data-id="https://facilhouse.com/modelo-casa/ivalo/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/04/casa-madera-foresthouse-ivalo-1-570x340.jpg"></noscript><img alt="Ivalo" data-id="https://facilhouse.com/modelo-casa/ivalo/" class="swiper-slide" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/04/casa-madera-foresthouse-ivalo-3-570x340.jpg" role="group" aria-label="5 / 7" style="width: 464px;"><noscript><img alt="Ivalo" data-id="https://facilhouse.com/modelo-casa/ivalo/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/04/casa-madera-foresthouse-ivalo-3-570x340.jpg"></noscript><img alt="Ivalo" data-id="https://facilhouse.com/modelo-casa/ivalo/" class="swiper-slide" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/04/casa-madera-foresthouse-ivalo-2-570x340.jpg" role="group" aria-label="6 / 7" style="width: 464px;"><noscript><img alt="Ivalo" data-id="https://facilhouse.com/modelo-casa/ivalo/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/04/casa-madera-foresthouse-ivalo-2-570x340.jpg"></noscript><img alt="Ivalo" data-id="https://facilhouse.com/modelo-casa/ivalo/" class="swiper-slide" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/04/casa-madera-foresthouse-ivalo-6-570x340.jpg" role="group" aria-label="7 / 7" style="width: 464px;"><noscript><img alt="Ivalo" data-id="https://facilhouse.com/modelo-casa/ivalo/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/04/casa-madera-foresthouse-ivalo-6-570x340.jpg"></noscript>                                ...
+                            </div>
+                            <!-- pagination -->
+                            <div class="swiper-pagination swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" aria-current="true"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span></div>
+
+                            <!-- navigation buttons -->
+                            <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-dc8e11510b271096d1" aria-disabled="true"></div>
+                            <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-dc8e11510b271096d1" aria-disabled="false"></div>
+                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                    <!-- -->                                   
+                </div>
+      
+                <div class="caracteristicas-flex">
+                    <div class="titulo-precio">
+                        <div class="property-title-flex">
+                            <a href="https://facilhouse.com/modelo-casa/ivalo/">Ivalo</a>
+                        </div>
+                        <div class="price-flex" style="">
+                            <span class="price-start">Desde</span><span class="item-price">363.000 €</span>                            
+                        </div>
+                    </div>
+                    <div class="amenities-materiales">
+                        <div class="amenities-flex">
+                            <p><span class="h-beds"><img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/cama.svg" alt="habitaciones" width="20" height="20" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/cama.svg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/cama.svg" alt="habitaciones" width="20" height="20"></noscript>: 4</span><span class="h-baths"><img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/banyera.svg" alt="Baños" width="13" height="13" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/banyera.svg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/banyera.svg" alt="Baños" width="13" height="13"></noscript>: 2</span><span class="h-area">242 m²</span></p>                        </div>              
+                        <div class="materiales-flex">
+                            <p><span>|&nbsp;&nbsp;</span>
+                                                                madera                            </p>                            
+                        </div>
+                    </div>
+                    <div class="empresa-items-flex">
+                        <div style="font-size:14px;" class="text-empresa-flex">
+                            Empresa:
+                        </div>
+                        <div style="font-weight:bold" class="empresa-flex prop-user-agent">
+                                                                                            
+                                
+                            
+                                                            <a href="https://facilhouse.com/empresa/foresthouse/">Forest House</a>                                                     </div>
+                    </div>
+                    <div class="contactes-empresa-flex">
+                        <div class="telefon-flex">
+                                                            <!-- telèfon en ús  -->
+                                                                                                <div class="num-telefono" id="ivalop" style="display:none;">
+                                    607 524 410                                </div>
+                                <!-- ver tel. -->
+                                                                        <form method="post" action="" id="vertel_form-25096" style="display:inline;">
+                                        <input type="hidden" name="vertel_ajax_nonce" id="vertel_ajax_nonce-25096" value="afc43b6c0e">
+                                        <input type="hidden" name="action" value="vertel_agent">
+                                        <input type="hidden" name="empresa" value="Forest House ">
+                                        <input type="hidden" name="propiedad" value="Ivalo">
+                                        <input type="hidden" name="fechahora" value="2024-12-10 17:01:34">
+                                        <input type="hidden" name="clicbtn" value="1">
+                                        <button type="submit" title="Click para mostrar el teléfono" id="ivalo" class="vertel_agent_btn llamar-mobile" data-id="25096">
+                                            <img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/telefono_azul.svg" alt="teléfono" class="icons-profiles entered lazyloaded" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/telefono_azul.svg" data-ll-status="loaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/telefono_azul.svg" alt="teléfono" class="icons-profiles" width="16" height="16"></noscript>Ver tel.                                        </button>
+                                    </form>
+                                <!--/ ver tel. -->
+                                                    </div>
+                                                
+                            <div class="whatsapp-flex">
+                            <a id="a_whatsapp-25096" href="https://wa.me/607524410?text=Hola,%20me%20interesa%20la%20casa%20«Ivalo»" target="_blank" title="Me interesa la casa «Ivalo»" alt="Contactar mediante WhapsApp" style="display:none;visibility:hidden;opacity:0">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%2016'%3E%3C/svg%3E" alt="Whatsapp" class="icons-profiles" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" alt="Whatsapp" class="icons-profiles" width="16" height="16"></noscript><span>WhatsApp</span>
+                                </a>
+                                <!-- whatsapp -->
+                                                                <form method="post" action="" id="whatsapp_form-25096" style="display:inline;">
+                                    <input type="hidden" name="whatsapp_ajax_nonce" id="whatsapp_ajax_nonce-25096" value="7c5a7f5666">
+                                    <input type="hidden" name="action" value="whatsapp_agent">
+                                    <input type="hidden" name="empresa" value="Forest House ">
+                                    <input type="hidden" name="propiedad" value="Ivalo">
+                                    <input type="hidden" name="fechahora" value="2024-12-10 17:01:34">
+                                    <input type="hidden" name="clicbtn" value="1">
+                                    <button type="submit" title="Me interesa la casa «Ivalo»" id="whatsapp_agent_btn-25096" class="whatsapp_agent_btn btn-whatsapp-m" data-id="25096">
+                                            <img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" alt="Contactar mediante WhapsApp" class="icons-profiles entered lazyloaded" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" data-ll-status="loaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" alt="Contactar mediante WhapsApp" class="icons-profiles" width="16" height="16"></noscript>
+                                            <span>WhatsApp</span>
+                                    </button>
+                                </form>                                
+                                <!--/ whatsapp-->  
+                            </div>
+                                                <div class="contactar-flex">
+                            <button type="button" class="btn btn-primary boto boto-flex" title="Contacta con la empresa" data-toggle="modal" data-id="25096" data-authorid="155" data-target="#myModalContact-25096">
+                                    <img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/correo_azul.svg" alt="Contactar" class="icons-profiles entered lazyloaded" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/correo_azul.svg" data-ll-status="loaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/correo_azul.svg" alt="Contactar" class="icons-profiles" width="16" height="16"></noscript>Contactar                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div><!--/ property-item -->
+            <div style="height:0;max-width:50%;display:flex">
+                    <span class="simplefavorite-button" data-postid="25096" data-siteid="1" data-groupid="1" data-favoritecount="0" style=""><div title="Guardar casa" class="heart-empty"></div></span>                </div>
+            <!--/ nou disseny desktop/tablet -->
+                    </div> <!-- end item-wrap (for desktop/tablet)--> 
+
+            <!-- Modal contactar -->
+        <div id="myModalContact-25096" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal"><i style="font-size:28px;" class="fa fa-times" aria-hidden="true"></i></button>
+                        <p class="modal-title fhmodal">Contactar</p>
+                    </div>
+                    <div class="modal-body">
+                        <p>Loading...</p>
+                    </div>
+                </div>
+            </div>
+        </div> <!-- fin modal contactar -->
+
+<!-- MOSTRAR SOLO MODELOS -->
+     
+<!-- MODELOS: -->
+        <div id="ID-23853" class="item-wrap infobox_trigger  item-modelo-1p-t3-u05">
+            <!-- nou disseny desktop/tablet -->
+            <div class="etiqueta-destacada" style="height:0">
+                            </div>
+            <div class="property-item property-item-flex">
+               
+                <div class="imatge-flex">
+                                                           <!-- -->
+                        <!-- Slider main container -->
+                        <div class="swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
+                            <!-- Additional required wrapper -->
+                            <div class="swiper-wrapper" id="swiper-wrapper-5fb1096c9aa73b3c" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+                                <!-- Slides -->
+                                <img alt="Modelo 1P T3 U05" data-id="https://facilhouse.com/modelo-casa/modelo-1p-t3-u05/" class="swiper-slide entered lazyloaded swiper-slide-active" src="https://facilhouse.com/wp-content/uploads/2022/02/casa-acero-modiko-1PT3u05-570x340.jpg" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/02/casa-acero-modiko-1PT3u05-570x340.jpg" role="group" aria-label="1 / 3" style="width: 464px;" data-ll-status="loaded"><noscript><img alt="Modelo 1P T3 U05" data-id="https://facilhouse.com/modelo-casa/modelo-1p-t3-u05/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/02/casa-acero-modiko-1PT3u05-570x340.jpg"></noscript><img alt="Modelo 1P T3 U05" data-id="https://facilhouse.com/modelo-casa/modelo-1p-t3-u05/" class="swiper-slide entered lazyloaded swiper-slide-next" src="https://facilhouse.com/wp-content/uploads/2022/02/casa-acero-modiko-1PT3u05-2-570x340.jpg" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/02/casa-acero-modiko-1PT3u05-2-570x340.jpg" role="group" aria-label="2 / 3" style="width: 464px;" data-ll-status="loaded"><noscript><img alt="Modelo 1P T3 U05" data-id="https://facilhouse.com/modelo-casa/modelo-1p-t3-u05/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/02/casa-acero-modiko-1PT3u05-2-570x340.jpg"></noscript><img alt="Modelo 1P T3 U05" data-id="https://facilhouse.com/modelo-casa/modelo-1p-t3-u05/" class="swiper-slide" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/02/casa-acero-modiko-1PT3u05-1-570x340.jpg" role="group" aria-label="3 / 3" style="width: 464px;"><noscript><img alt="Modelo 1P T3 U05" data-id="https://facilhouse.com/modelo-casa/modelo-1p-t3-u05/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/02/casa-acero-modiko-1PT3u05-1-570x340.jpg"></noscript>                                ...
+                            </div>
+                            <!-- pagination -->
+                            <div class="swiper-pagination swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" aria-current="true"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span></div>
+
+                            <!-- navigation buttons -->
+                            <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-5fb1096c9aa73b3c" aria-disabled="true"></div>
+                            <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-5fb1096c9aa73b3c" aria-disabled="false"></div>
+                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                    <!-- -->                                   
+                </div>
+      
+                <div class="caracteristicas-flex">
+                    <div class="titulo-precio">
+                        <div class="property-title-flex">
+                            <a href="https://facilhouse.com/modelo-casa/modelo-1p-t3-u05/">Modelo 1P T3 U05</a>
+                        </div>
+                        <div class="price-flex" style="">
+                            <span class="item-price">Consultar</span>                            
+                        </div>
+                    </div>
+                    <div class="amenities-materiales">
+                        <div class="amenities-flex">
+                            <p><span class="h-beds"><img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/cama.svg" alt="habitaciones" width="20" height="20" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/cama.svg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/cama.svg" alt="habitaciones" width="20" height="20"></noscript>: 3</span><span class="h-baths"><img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/banyera.svg" alt="Baños" width="13" height="13" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/banyera.svg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/banyera.svg" alt="Baños" width="13" height="13"></noscript>: 2</span><span class="h-area">163 m²</span></p>                        </div>              
+                        <div class="materiales-flex">
+                            <p><span>|&nbsp;&nbsp;</span>
+                                                                acero                            </p>                            
+                        </div>
+                    </div>
+                    <div class="empresa-items-flex">
+                        <div style="font-size:14px;" class="text-empresa-flex">
+                            Empresa:
+                        </div>
+                        <div style="font-weight:bold" class="empresa-flex prop-user-agent">
+                                                                                            
+                                
+                            
+                                                            <a href="https://facilhouse.com/empresa/modiko/">Modiko</a>                                                     </div>
+                    </div>
+                    <div class="contactes-empresa-flex">
+                        <div class="telefon-flex">
+                                                            <!-- telèfon en ús  -->
+                                                                                                <div class="num-telefono" id="modelo1pt3u05p" style="display:none;">
+                                    667 960 338                                </div>
+                                <!-- ver tel. -->
+                                                                        <form method="post" action="" id="vertel_form-23853" style="display:inline;">
+                                        <input type="hidden" name="vertel_ajax_nonce" id="vertel_ajax_nonce-23853" value="afc43b6c0e">
+                                        <input type="hidden" name="action" value="vertel_agent">
+                                        <input type="hidden" name="empresa" value="Modiko ">
+                                        <input type="hidden" name="propiedad" value="Modelo 1P T3 U05">
+                                        <input type="hidden" name="fechahora" value="2024-12-10 17:01:34">
+                                        <input type="hidden" name="clicbtn" value="1">
+                                        <button type="submit" title="Click para mostrar el teléfono" id="modelo1pt3u05" class="vertel_agent_btn llamar-mobile" data-id="23853">
+                                            <img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/telefono_azul.svg" alt="teléfono" class="icons-profiles entered lazyloaded" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/telefono_azul.svg" data-ll-status="loaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/telefono_azul.svg" alt="teléfono" class="icons-profiles" width="16" height="16"></noscript>Ver tel.                                        </button>
+                                    </form>
+                                <!--/ ver tel. -->
+                                                    </div>
+                                                
+                            <div class="whatsapp-flex">
+                            <a id="a_whatsapp-23853" href="https://wa.me/667960338?text=Hola,%20me%20interesa%20la%20casa%20«Modelo 1P T3 U05»" target="_blank" title="Me interesa la casa «Modelo 1P T3 U05»" alt="Contactar mediante WhapsApp" style="display:none;visibility:hidden;opacity:0">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%2016'%3E%3C/svg%3E" alt="Whatsapp" class="icons-profiles" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" alt="Whatsapp" class="icons-profiles" width="16" height="16"></noscript><span>WhatsApp</span>
+                                </a>
+                                <!-- whatsapp -->
+                                                                <form method="post" action="" id="whatsapp_form-23853" style="display:inline;">
+                                    <input type="hidden" name="whatsapp_ajax_nonce" id="whatsapp_ajax_nonce-23853" value="7c5a7f5666">
+                                    <input type="hidden" name="action" value="whatsapp_agent">
+                                    <input type="hidden" name="empresa" value="Modiko ">
+                                    <input type="hidden" name="propiedad" value="Modelo 1P T3 U05">
+                                    <input type="hidden" name="fechahora" value="2024-12-10 17:01:34">
+                                    <input type="hidden" name="clicbtn" value="1">
+                                    <button type="submit" title="Me interesa la casa «Modelo 1P T3 U05»" id="whatsapp_agent_btn-23853" class="whatsapp_agent_btn btn-whatsapp-m" data-id="23853">
+                                            <img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" alt="Contactar mediante WhapsApp" class="icons-profiles entered lazyloaded" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" data-ll-status="loaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" alt="Contactar mediante WhapsApp" class="icons-profiles" width="16" height="16"></noscript>
+                                            <span>WhatsApp</span>
+                                    </button>
+                                </form>                                
+                                <!--/ whatsapp-->  
+                            </div>
+                                                <div class="contactar-flex">
+                            <button type="button" class="btn btn-primary boto boto-flex" title="Contacta con la empresa" data-toggle="modal" data-id="23853" data-authorid="83" data-target="#myModalContact-23853">
+                                    <img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/correo_azul.svg" alt="Contactar" class="icons-profiles entered lazyloaded" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/correo_azul.svg" data-ll-status="loaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/correo_azul.svg" alt="Contactar" class="icons-profiles" width="16" height="16"></noscript>Contactar                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div><!--/ property-item -->
+            <div style="height:0;max-width:50%;display:flex">
+                    <span class="simplefavorite-button" data-postid="23853" data-siteid="1" data-groupid="1" data-favoritecount="0" style=""><div title="Guardar casa" class="heart-empty"></div></span>                </div>
+            <!--/ nou disseny desktop/tablet -->
+                    </div> <!-- end item-wrap (for desktop/tablet)--> 
+
+            <!-- Modal contactar -->
+        <div id="myModalContact-23853" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal"><i style="font-size:28px;" class="fa fa-times" aria-hidden="true"></i></button>
+                        <p class="modal-title fhmodal">Contactar</p>
+                    </div>
+                    <div class="modal-body">
+                        <p>Loading...</p>
+                    </div>
+                </div>
+            </div>
+        </div> <!-- fin modal contactar -->
+
+<!-- MOSTRAR SOLO MODELOS -->
+     
+<!-- MODELOS: -->
+        <div id="ID-23888" class="item-wrap infobox_trigger  item-modelo-1p-t3-r02">
+            <!-- nou disseny desktop/tablet -->
+            <div class="etiqueta-destacada" style="height:0">
+                            </div>
+            <div class="property-item property-item-flex">
+               
+                <div class="imatge-flex">
+                                                           <!-- -->
+                        <!-- Slider main container -->
+                        <div class="swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
+                            <!-- Additional required wrapper -->
+                            <div class="swiper-wrapper" id="swiper-wrapper-7adffb4be3dabc34" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+                                <!-- Slides -->
+                                <img alt="Modelo 1P T3 R02" data-id="https://facilhouse.com/modelo-casa/modelo-1p-t3-r02/" class="swiper-slide entered lazyloaded swiper-slide-active" src="https://facilhouse.com/wp-content/uploads/2022/02/casa-acero-modiko-1PT3r02-570x340.jpg" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/02/casa-acero-modiko-1PT3r02-570x340.jpg" role="group" aria-label="1 / 3" style="width: 464px;" data-ll-status="loaded"><noscript><img alt="Modelo 1P T3 R02" data-id="https://facilhouse.com/modelo-casa/modelo-1p-t3-r02/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/02/casa-acero-modiko-1PT3r02-570x340.jpg"></noscript><img alt="Modelo 1P T3 R02" data-id="https://facilhouse.com/modelo-casa/modelo-1p-t3-r02/" class="swiper-slide entered lazyloaded swiper-slide-next" src="https://facilhouse.com/wp-content/uploads/2022/02/casa-acero-modiko-1PT3r02-2-570x340.jpg" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/02/casa-acero-modiko-1PT3r02-2-570x340.jpg" role="group" aria-label="2 / 3" style="width: 464px;" data-ll-status="loaded"><noscript><img alt="Modelo 1P T3 R02" data-id="https://facilhouse.com/modelo-casa/modelo-1p-t3-r02/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/02/casa-acero-modiko-1PT3r02-2-570x340.jpg"></noscript><img alt="Modelo 1P T3 R02" data-id="https://facilhouse.com/modelo-casa/modelo-1p-t3-r02/" class="swiper-slide" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/02/casa-acero-modiko-1PT3r02-1-570x340.jpg" role="group" aria-label="3 / 3" style="width: 464px;"><noscript><img alt="Modelo 1P T3 R02" data-id="https://facilhouse.com/modelo-casa/modelo-1p-t3-r02/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/02/casa-acero-modiko-1PT3r02-1-570x340.jpg"></noscript>                                ...
+                            </div>
+                            <!-- pagination -->
+                            <div class="swiper-pagination swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" aria-current="true"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span></div>
+
+                            <!-- navigation buttons -->
+                            <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-7adffb4be3dabc34" aria-disabled="true"></div>
+                            <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-7adffb4be3dabc34" aria-disabled="false"></div>
+                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                    <!-- -->                                   
+                </div>
+      
+                <div class="caracteristicas-flex">
+                    <div class="titulo-precio">
+                        <div class="property-title-flex">
+                            <a href="https://facilhouse.com/modelo-casa/modelo-1p-t3-r02/">Modelo 1P T3 R02</a>
+                        </div>
+                        <div class="price-flex" style="">
+                            <span class="item-price">Consultar</span>                            
+                        </div>
+                    </div>
+                    <div class="amenities-materiales">
+                        <div class="amenities-flex">
+                            <p><span class="h-beds"><img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/cama.svg" alt="habitaciones" width="20" height="20" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/cama.svg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/cama.svg" alt="habitaciones" width="20" height="20"></noscript>: 3</span><span class="h-baths"><img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/banyera.svg" alt="Baños" width="13" height="13" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/banyera.svg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/banyera.svg" alt="Baños" width="13" height="13"></noscript>: 2</span><span class="h-area">154 m²</span></p>                        </div>              
+                        <div class="materiales-flex">
+                            <p><span>|&nbsp;&nbsp;</span>
+                                                                acero                            </p>                            
+                        </div>
+                    </div>
+                    <div class="empresa-items-flex">
+                        <div style="font-size:14px;" class="text-empresa-flex">
+                            Empresa:
+                        </div>
+                        <div style="font-weight:bold" class="empresa-flex prop-user-agent">
+                                                                                            
+                                
+                            
+                                                            <a href="https://facilhouse.com/empresa/modiko/">Modiko</a>                                                     </div>
+                    </div>
+                    <div class="contactes-empresa-flex">
+                        <div class="telefon-flex">
+                                                            <!-- telèfon en ús  -->
+                                                                                                <div class="num-telefono" id="modelo1pt3r02p" style="display:none;">
+                                    667 960 338                                </div>
+                                <!-- ver tel. -->
+                                                                        <form method="post" action="" id="vertel_form-23888" style="display:inline;">
+                                        <input type="hidden" name="vertel_ajax_nonce" id="vertel_ajax_nonce-23888" value="afc43b6c0e">
+                                        <input type="hidden" name="action" value="vertel_agent">
+                                        <input type="hidden" name="empresa" value="Modiko ">
+                                        <input type="hidden" name="propiedad" value="Modelo 1P T3 R02">
+                                        <input type="hidden" name="fechahora" value="2024-12-10 17:01:34">
+                                        <input type="hidden" name="clicbtn" value="1">
+                                        <button type="submit" title="Click para mostrar el teléfono" id="modelo1pt3r02" class="vertel_agent_btn llamar-mobile" data-id="23888">
+                                            <img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/telefono_azul.svg" alt="teléfono" class="icons-profiles entered lazyloaded" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/telefono_azul.svg" data-ll-status="loaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/telefono_azul.svg" alt="teléfono" class="icons-profiles" width="16" height="16"></noscript>Ver tel.                                        </button>
+                                    </form>
+                                <!--/ ver tel. -->
+                                                    </div>
+                                                
+                            <div class="whatsapp-flex">
+                            <a id="a_whatsapp-23888" href="https://wa.me/667960338?text=Hola,%20me%20interesa%20la%20casa%20«Modelo 1P T3 R02»" target="_blank" title="Me interesa la casa «Modelo 1P T3 R02»" alt="Contactar mediante WhapsApp" style="display:none;visibility:hidden;opacity:0">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%2016'%3E%3C/svg%3E" alt="Whatsapp" class="icons-profiles" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" alt="Whatsapp" class="icons-profiles" width="16" height="16"></noscript><span>WhatsApp</span>
+                                </a>
+                                <!-- whatsapp -->
+                                                                <form method="post" action="" id="whatsapp_form-23888" style="display:inline;">
+                                    <input type="hidden" name="whatsapp_ajax_nonce" id="whatsapp_ajax_nonce-23888" value="7c5a7f5666">
+                                    <input type="hidden" name="action" value="whatsapp_agent">
+                                    <input type="hidden" name="empresa" value="Modiko ">
+                                    <input type="hidden" name="propiedad" value="Modelo 1P T3 R02">
+                                    <input type="hidden" name="fechahora" value="2024-12-10 17:01:34">
+                                    <input type="hidden" name="clicbtn" value="1">
+                                    <button type="submit" title="Me interesa la casa «Modelo 1P T3 R02»" id="whatsapp_agent_btn-23888" class="whatsapp_agent_btn btn-whatsapp-m" data-id="23888">
+                                            <img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" alt="Contactar mediante WhapsApp" class="icons-profiles entered lazyloaded" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" data-ll-status="loaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" alt="Contactar mediante WhapsApp" class="icons-profiles" width="16" height="16"></noscript>
+                                            <span>WhatsApp</span>
+                                    </button>
+                                </form>                                
+                                <!--/ whatsapp-->  
+                            </div>
+                                                <div class="contactar-flex">
+                            <button type="button" class="btn btn-primary boto boto-flex" title="Contacta con la empresa" data-toggle="modal" data-id="23888" data-authorid="83" data-target="#myModalContact-23888">
+                                    <img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/correo_azul.svg" alt="Contactar" class="icons-profiles entered lazyloaded" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/correo_azul.svg" data-ll-status="loaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/correo_azul.svg" alt="Contactar" class="icons-profiles" width="16" height="16"></noscript>Contactar                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div><!--/ property-item -->
+            <div style="height:0;max-width:50%;display:flex">
+                    <span class="simplefavorite-button" data-postid="23888" data-siteid="1" data-groupid="1" data-favoritecount="0" style=""><div title="Guardar casa" class="heart-empty"></div></span>                </div>
+            <!--/ nou disseny desktop/tablet -->
+                    </div> <!-- end item-wrap (for desktop/tablet)--> 
+
+            <!-- Modal contactar -->
+        <div id="myModalContact-23888" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal"><i style="font-size:28px;" class="fa fa-times" aria-hidden="true"></i></button>
+                        <p class="modal-title fhmodal">Contactar</p>
+                    </div>
+                    <div class="modal-body">
+                        <p>Loading...</p>
+                    </div>
+                </div>
+            </div>
+        </div> <!-- fin modal contactar -->
+
+<!-- MOSTRAR SOLO MODELOS -->
+     
+<!-- MODELOS: -->
+        <div id="ID-26140" class="item-wrap infobox_trigger  item-modelo-dalma">
+            <!-- nou disseny desktop/tablet -->
+            <div class="etiqueta-destacada" style="height:0">
+                            </div>
+            <div class="property-item property-item-flex">
+               
+                <div class="imatge-flex">
+                                                           <!-- -->
+                        <!-- Slider main container -->
+                        <div class="swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
+                            <!-- Additional required wrapper -->
+                            <div class="swiper-wrapper" id="swiper-wrapper-31649ca49be2414a" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+                                <!-- Slides -->
+                                <img alt="Modelo Dalma" data-id="https://facilhouse.com/modelo-casa/modelo-dalma/" class="swiper-slide entered lazyloaded swiper-slide-active" src="https://facilhouse.com/wp-content/uploads/2022/05/casa-acero-hormigon-madera-cuni-dalma-570x340.jpg" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/05/casa-acero-hormigon-madera-cuni-dalma-570x340.jpg" role="group" aria-label="1 / 2" style="width: 464px;" data-ll-status="loaded"><noscript><img alt="Modelo Dalma" data-id="https://facilhouse.com/modelo-casa/modelo-dalma/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/05/casa-acero-hormigon-madera-cuni-dalma-570x340.jpg"></noscript><img alt="Modelo Dalma" data-id="https://facilhouse.com/modelo-casa/modelo-dalma/" class="swiper-slide entered lazyloaded swiper-slide-next" src="https://facilhouse.com/wp-content/uploads/2022/05/casa-acero-hormigon-madera-cuni-dalma-1-570x340.jpg" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/05/casa-acero-hormigon-madera-cuni-dalma-1-570x340.jpg" role="group" aria-label="2 / 2" style="width: 464px;" data-ll-status="loaded"><noscript><img alt="Modelo Dalma" data-id="https://facilhouse.com/modelo-casa/modelo-dalma/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/05/casa-acero-hormigon-madera-cuni-dalma-1-570x340.jpg"></noscript>                                ...
+                            </div>
+                            <!-- pagination -->
+                            <div class="swiper-pagination swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" aria-current="true"></span><span class="swiper-pagination-bullet"></span></div>
+
+                            <!-- navigation buttons -->
+                            <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-31649ca49be2414a" aria-disabled="true"></div>
+                            <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-31649ca49be2414a" aria-disabled="false"></div>
+                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                    <!-- -->                                   
+                </div>
+      
+                <div class="caracteristicas-flex">
+                    <div class="titulo-precio">
+                        <div class="property-title-flex">
+                            <a href="https://facilhouse.com/modelo-casa/modelo-dalma/">Modelo Dalma</a>
+                        </div>
+                        <div class="price-flex" style="">
+                            <span class="item-price">120.000 €</span>                            
+                        </div>
+                    </div>
+                    <div class="amenities-materiales">
+                        <div class="amenities-flex">
+                            <p><span class="h-beds"><img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/cama.svg" alt="habitaciones" width="20" height="20" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/cama.svg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/cama.svg" alt="habitaciones" width="20" height="20"></noscript>: 3</span><span class="h-baths"><img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/banyera.svg" alt="Baños" width="13" height="13" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/banyera.svg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/banyera.svg" alt="Baños" width="13" height="13"></noscript>: 1</span><span class="h-area">80 m²</span></p>                        </div>              
+                        <div class="materiales-flex">
+                            <p><span>|&nbsp;&nbsp;</span>
+                                                                madera                            </p>                            
+                        </div>
+                    </div>
+                    <div class="empresa-items-flex">
+                        <div style="font-size:14px;" class="text-empresa-flex">
+                            Empresa:
+                        </div>
+                        <div style="font-weight:bold" class="empresa-flex prop-user-agent">
+                                                                                            
+                                
+                            
+                                                            <a href="https://facilhouse.com/empresa/cuni/">Grupo CUNI</a>                                                     </div>
+                    </div>
+                    <div class="contactes-empresa-flex">
+                        <div class="telefon-flex">
+                                                            <!-- telèfon en ús  -->
+                                                                                                <div class="num-telefono" id="modelodalmap" style="display:none;">
+                                    618 507 150                                </div>
+                                <!-- ver tel. -->
+                                                                        <form method="post" action="" id="vertel_form-26140" style="display:inline;">
+                                        <input type="hidden" name="vertel_ajax_nonce" id="vertel_ajax_nonce-26140" value="afc43b6c0e">
+                                        <input type="hidden" name="action" value="vertel_agent">
+                                        <input type="hidden" name="empresa" value="Grupo CUNI ">
+                                        <input type="hidden" name="propiedad" value="Modelo Dalma">
+                                        <input type="hidden" name="fechahora" value="2024-12-10 17:01:34">
+                                        <input type="hidden" name="clicbtn" value="1">
+                                        <button type="submit" title="Click para mostrar el teléfono" id="modelodalma" class="vertel_agent_btn llamar-mobile" data-id="26140">
+                                            <img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/telefono_azul.svg" alt="teléfono" class="icons-profiles entered lazyloaded" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/telefono_azul.svg" data-ll-status="loaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/telefono_azul.svg" alt="teléfono" class="icons-profiles" width="16" height="16"></noscript>Ver tel.                                        </button>
+                                    </form>
+                                <!--/ ver tel. -->
+                                                    </div>
+                                                
+                            <div class="whatsapp-flex">
+                            <a id="a_whatsapp-26140" href="https://wa.me/618507150?text=Hola,%20me%20interesa%20la%20casa%20«Modelo Dalma»" target="_blank" title="Me interesa la casa «Modelo Dalma»" alt="Contactar mediante WhapsApp" style="display:none;visibility:hidden;opacity:0">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%2016'%3E%3C/svg%3E" alt="Whatsapp" class="icons-profiles" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" alt="Whatsapp" class="icons-profiles" width="16" height="16"></noscript><span>WhatsApp</span>
+                                </a>
+                                <!-- whatsapp -->
+                                                                <form method="post" action="" id="whatsapp_form-26140" style="display:inline;">
+                                    <input type="hidden" name="whatsapp_ajax_nonce" id="whatsapp_ajax_nonce-26140" value="7c5a7f5666">
+                                    <input type="hidden" name="action" value="whatsapp_agent">
+                                    <input type="hidden" name="empresa" value="Grupo CUNI ">
+                                    <input type="hidden" name="propiedad" value="Modelo Dalma">
+                                    <input type="hidden" name="fechahora" value="2024-12-10 17:01:34">
+                                    <input type="hidden" name="clicbtn" value="1">
+                                    <button type="submit" title="Me interesa la casa «Modelo Dalma»" id="whatsapp_agent_btn-26140" class="whatsapp_agent_btn btn-whatsapp-m" data-id="26140">
+                                            <img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" alt="Contactar mediante WhapsApp" class="icons-profiles entered lazyloaded" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" data-ll-status="loaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" alt="Contactar mediante WhapsApp" class="icons-profiles" width="16" height="16"></noscript>
+                                            <span>WhatsApp</span>
+                                    </button>
+                                </form>                                
+                                <!--/ whatsapp-->  
+                            </div>
+                                                <div class="contactar-flex">
+                            <button type="button" class="btn btn-primary boto boto-flex" title="Contacta con la empresa" data-toggle="modal" data-id="26140" data-authorid="162" data-target="#myModalContact-26140">
+                                    <img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/correo_azul.svg" alt="Contactar" class="icons-profiles entered lazyloaded" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/correo_azul.svg" data-ll-status="loaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/correo_azul.svg" alt="Contactar" class="icons-profiles" width="16" height="16"></noscript>Contactar                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div><!--/ property-item -->
+            <div style="height:0;max-width:50%;display:flex">
+                    <span class="simplefavorite-button" data-postid="26140" data-siteid="1" data-groupid="1" data-favoritecount="0" style=""><div title="Guardar casa" class="heart-empty"></div></span>                </div>
+            <!--/ nou disseny desktop/tablet -->
+                    </div> <!-- end item-wrap (for desktop/tablet)--> 
+
+            <!-- Modal contactar -->
+        <div id="myModalContact-26140" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal"><i style="font-size:28px;" class="fa fa-times" aria-hidden="true"></i></button>
+                        <p class="modal-title fhmodal">Contactar</p>
+                    </div>
+                    <div class="modal-body">
+                        <p>Loading...</p>
+                    </div>
+                </div>
+            </div>
+        </div> <!-- fin modal contactar -->
+
+<!-- MOSTRAR SOLO MODELOS -->
+     
+<!-- MODELOS: -->
+        <div id="ID-17485" class="item-wrap infobox_trigger  item-alabama-3d">
+            <!-- nou disseny desktop/tablet -->
+            <div class="etiqueta-destacada" style="height:0">
+                            </div>
+            <div class="property-item property-item-flex">
+               
+                <div class="imatge-flex">
+                                                           <!-- -->
+                        <!-- Slider main container -->
+                        <div class="swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
+                            <!-- Additional required wrapper -->
+                            <div class="swiper-wrapper" id="swiper-wrapper-f13d22d2310327417" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+                                <!-- Slides -->
+                                <img alt="Alabama 3D" data-id="https://facilhouse.com/modelo-casa/alabama-3d/" class="swiper-slide entered lazyloaded swiper-slide-active" src="https://facilhouse.com/wp-content/uploads/2022/03/casa-movil-alucasa-alabama3d-570x340.jpg" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/03/casa-movil-alucasa-alabama3d-570x340.jpg" role="group" aria-label="1 / 5" style="width: 464px;" data-ll-status="loaded"><noscript><img alt="Alabama 3D" data-id="https://facilhouse.com/modelo-casa/alabama-3d/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/03/casa-movil-alucasa-alabama3d-570x340.jpg"></noscript><img alt="Alabama 3D" data-id="https://facilhouse.com/modelo-casa/alabama-3d/" class="swiper-slide entered lazyloaded swiper-slide-next" src="https://facilhouse.com/wp-content/uploads/2022/03/casa-movil-alucasa-alabama3d-13-570x340.jpg" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/03/casa-movil-alucasa-alabama3d-13-570x340.jpg" role="group" aria-label="2 / 5" style="width: 464px;" data-ll-status="loaded"><noscript><img alt="Alabama 3D" data-id="https://facilhouse.com/modelo-casa/alabama-3d/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/03/casa-movil-alucasa-alabama3d-13-570x340.jpg"></noscript><img alt="Alabama 3D" data-id="https://facilhouse.com/modelo-casa/alabama-3d/" class="swiper-slide" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/03/casa-movil-alucasa-alabama3d-15-570x340.jpg" role="group" aria-label="3 / 5" style="width: 464px;"><noscript><img alt="Alabama 3D" data-id="https://facilhouse.com/modelo-casa/alabama-3d/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/03/casa-movil-alucasa-alabama3d-15-570x340.jpg"></noscript><img alt="Alabama 3D" data-id="https://facilhouse.com/modelo-casa/alabama-3d/" class="swiper-slide" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/03/casa-movil-alucasa-alabama3d-11-570x340.jpg" role="group" aria-label="4 / 5" style="width: 464px;"><noscript><img alt="Alabama 3D" data-id="https://facilhouse.com/modelo-casa/alabama-3d/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/03/casa-movil-alucasa-alabama3d-11-570x340.jpg"></noscript><img alt="Alabama 3D" data-id="https://facilhouse.com/modelo-casa/alabama-3d/" class="swiper-slide" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/03/casa-movil-alucasa-alabama3d-5-570x340.jpg" role="group" aria-label="5 / 5" style="width: 464px;"><noscript><img alt="Alabama 3D" data-id="https://facilhouse.com/modelo-casa/alabama-3d/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/03/casa-movil-alucasa-alabama3d-5-570x340.jpg"></noscript>                                ...
+                            </div>
+                            <!-- pagination -->
+                            <div class="swiper-pagination swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" aria-current="true"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span></div>
+
+                            <!-- navigation buttons -->
+                            <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-f13d22d2310327417" aria-disabled="true"></div>
+                            <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-f13d22d2310327417" aria-disabled="false"></div>
+                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                    <!-- -->                                   
+                </div>
+      
+                <div class="caracteristicas-flex">
+                    <div class="titulo-precio">
+                        <div class="property-title-flex">
+                            <a href="https://facilhouse.com/modelo-casa/alabama-3d/">Alabama 3D</a>
+                        </div>
+                        <div class="price-flex" style="">
+                            <span class="price-start">Desde</span><span class="item-price">106.865 €</span>                            
+                        </div>
+                    </div>
+                    <div class="amenities-materiales">
+                        <div class="amenities-flex">
+                            <p><span class="h-beds"><img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/cama.svg" alt="habitaciones" width="20" height="20" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/cama.svg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/cama.svg" alt="habitaciones" width="20" height="20"></noscript>: 3</span><span class="h-baths"><img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/banyera.svg" alt="Baños" width="13" height="13" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/banyera.svg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/banyera.svg" alt="Baños" width="13" height="13"></noscript>: 2</span><span class="h-area">81 m²</span></p>                        </div>              
+                        <div class="materiales-flex">
+                            <p><span>|&nbsp;&nbsp;</span>
+                                                                madera                            </p>                            
+                        </div>
+                    </div>
+                    <div class="empresa-items-flex">
+                        <div style="font-size:14px;" class="text-empresa-flex">
+                            Empresa:
+                        </div>
+                        <div style="font-weight:bold" class="empresa-flex prop-user-agent">
+                                                                                            
+                                
+                            
+                                                            <a href="https://facilhouse.com/empresa/alucasa/">Alucasa</a>                                                     </div>
+                    </div>
+                    <div class="contactes-empresa-flex">
+                        <div class="telefon-flex">
+                                                            <!-- telèfon en ús  -->
+                                                                                                <div class="num-telefono" id="alabama3dp" style="display:none;">
+                                    965 702 697                                </div>
+                                <!-- ver tel. -->
+                                                                        <form method="post" action="" id="vertel_form-17485" style="display:inline;">
+                                        <input type="hidden" name="vertel_ajax_nonce" id="vertel_ajax_nonce-17485" value="afc43b6c0e">
+                                        <input type="hidden" name="action" value="vertel_agent">
+                                        <input type="hidden" name="empresa" value="Alucasa ">
+                                        <input type="hidden" name="propiedad" value="Alabama 3D">
+                                        <input type="hidden" name="fechahora" value="2024-12-10 17:01:34">
+                                        <input type="hidden" name="clicbtn" value="1">
+                                        <button type="submit" title="Click para mostrar el teléfono" id="alabama3d" class="vertel_agent_btn llamar-mobile" data-id="17485">
+                                            <img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/telefono_azul.svg" alt="teléfono" class="icons-profiles entered lazyloaded" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/telefono_azul.svg" data-ll-status="loaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/telefono_azul.svg" alt="teléfono" class="icons-profiles" width="16" height="16"></noscript>Ver tel.                                        </button>
+                                    </form>
+                                <!--/ ver tel. -->
+                                                    </div>
+                                                <div class="contactar-flex">
+                            <button type="button" class="btn btn-primary boto boto-flex" title="Contacta con la empresa" data-toggle="modal" data-id="17485" data-authorid="94" data-target="#myModalContact-17485">
+                                    <img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/correo_azul.svg" alt="Contactar" class="icons-profiles entered lazyloaded" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/correo_azul.svg" data-ll-status="loaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/correo_azul.svg" alt="Contactar" class="icons-profiles" width="16" height="16"></noscript>Contactar                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div><!--/ property-item -->
+            <div style="height:0;max-width:50%;display:flex">
+                    <span class="simplefavorite-button" data-postid="17485" data-siteid="1" data-groupid="1" data-favoritecount="0" style=""><div title="Guardar casa" class="heart-empty"></div></span>                </div>
+            <!--/ nou disseny desktop/tablet -->
+                    </div> <!-- end item-wrap (for desktop/tablet)--> 
+
+            <!-- Modal contactar -->
+        <div id="myModalContact-17485" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal"><i style="font-size:28px;" class="fa fa-times" aria-hidden="true"></i></button>
+                        <p class="modal-title fhmodal">Contactar</p>
+                    </div>
+                    <div class="modal-body">
+                        <p>Loading...</p>
+                    </div>
+                </div>
+            </div>
+        </div> <!-- fin modal contactar -->
+
+<!-- MOSTRAR SOLO MODELOS -->
+     
+<!-- MODELOS: -->
+        <div id="ID-25548" class="item-wrap infobox_trigger  item-penates-xl">
+            <!-- nou disseny desktop/tablet -->
+            <div class="etiqueta-destacada" style="height:0">
+                            </div>
+            <div class="property-item property-item-flex">
+               
+                <div class="imatge-flex">
+                                                           <!-- -->
+                        <!-- Slider main container -->
+                        <div class="swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
+                            <!-- Additional required wrapper -->
+                            <div class="swiper-wrapper" id="swiper-wrapper-7e3229b8b77932fb" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+                                <!-- Slides -->
+                                <img alt="Penates XL" data-id="https://facilhouse.com/modelo-casa/penates-xl/" class="swiper-slide entered lazyloaded swiper-slide-active" src="https://facilhouse.com/wp-content/uploads/2022/04/tinyhouse-serenahouses-penatesxl-8-570x340.jpg" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/04/tinyhouse-serenahouses-penatesxl-8-570x340.jpg" role="group" aria-label="1 / 9" style="width: 464px;" data-ll-status="loaded"><noscript><img alt="Penates XL" data-id="https://facilhouse.com/modelo-casa/penates-xl/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/04/tinyhouse-serenahouses-penatesxl-8-570x340.jpg"></noscript><img alt="Penates XL" data-id="https://facilhouse.com/modelo-casa/penates-xl/" class="swiper-slide entered lazyloaded swiper-slide-next" src="https://facilhouse.com/wp-content/uploads/2022/04/tinyhouse-serenahouses-penatesxl-5-570x340.jpg" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/04/tinyhouse-serenahouses-penatesxl-5-570x340.jpg" role="group" aria-label="2 / 9" style="width: 464px;" data-ll-status="loaded"><noscript><img alt="Penates XL" data-id="https://facilhouse.com/modelo-casa/penates-xl/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/04/tinyhouse-serenahouses-penatesxl-5-570x340.jpg"></noscript><img alt="Penates XL" data-id="https://facilhouse.com/modelo-casa/penates-xl/" class="swiper-slide" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/04/tinyhouse-serenahouses-penatesxl-1-570x340.jpg" role="group" aria-label="3 / 9" style="width: 464px;"><noscript><img alt="Penates XL" data-id="https://facilhouse.com/modelo-casa/penates-xl/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/04/tinyhouse-serenahouses-penatesxl-1-570x340.jpg"></noscript><img alt="Penates XL" data-id="https://facilhouse.com/modelo-casa/penates-xl/" class="swiper-slide" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/04/tinyhouse-serenahouses-penatesxl-3-570x340.jpg" role="group" aria-label="4 / 9" style="width: 464px;"><noscript><img alt="Penates XL" data-id="https://facilhouse.com/modelo-casa/penates-xl/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/04/tinyhouse-serenahouses-penatesxl-3-570x340.jpg"></noscript><img alt="Penates XL" data-id="https://facilhouse.com/modelo-casa/penates-xl/" class="swiper-slide" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/04/tinyhouse-serenahouses-penatesxl-2-570x340.jpg" role="group" aria-label="5 / 9" style="width: 464px;"><noscript><img alt="Penates XL" data-id="https://facilhouse.com/modelo-casa/penates-xl/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/04/tinyhouse-serenahouses-penatesxl-2-570x340.jpg"></noscript><img alt="Penates XL" data-id="https://facilhouse.com/modelo-casa/penates-xl/" class="swiper-slide" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/04/tinyhouse-serenahouses-penatesxl-4-570x340.jpg" role="group" aria-label="6 / 9" style="width: 464px;"><noscript><img alt="Penates XL" data-id="https://facilhouse.com/modelo-casa/penates-xl/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/04/tinyhouse-serenahouses-penatesxl-4-570x340.jpg"></noscript><img alt="Penates XL" data-id="https://facilhouse.com/modelo-casa/penates-xl/" class="swiper-slide" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/04/tinyhouse-serenahouses-penatesxl-6-570x340.jpg" role="group" aria-label="7 / 9" style="width: 464px;"><noscript><img alt="Penates XL" data-id="https://facilhouse.com/modelo-casa/penates-xl/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/04/tinyhouse-serenahouses-penatesxl-6-570x340.jpg"></noscript><img alt="Penates XL" data-id="https://facilhouse.com/modelo-casa/penates-xl/" class="swiper-slide" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/04/tinyhouse-serenahouses-penatesxl-7-570x340.jpg" role="group" aria-label="8 / 9" style="width: 464px;"><noscript><img alt="Penates XL" data-id="https://facilhouse.com/modelo-casa/penates-xl/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/04/tinyhouse-serenahouses-penatesxl-7-570x340.jpg"></noscript><img alt="Penates XL" data-id="https://facilhouse.com/modelo-casa/penates-xl/" class="swiper-slide" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/04/tinyhouse-serenahouses-penatesxl-570x340.jpg" role="group" aria-label="9 / 9" style="width: 464px;"><noscript><img alt="Penates XL" data-id="https://facilhouse.com/modelo-casa/penates-xl/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2022/04/tinyhouse-serenahouses-penatesxl-570x340.jpg"></noscript>                                ...
+                            </div>
+                            <!-- pagination -->
+                            <div class="swiper-pagination swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" aria-current="true"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span></div>
+
+                            <!-- navigation buttons -->
+                            <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-7e3229b8b77932fb" aria-disabled="true"></div>
+                            <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-7e3229b8b77932fb" aria-disabled="false"></div>
+                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                    <!-- -->                                   
+                </div>
+      
+                <div class="caracteristicas-flex">
+                    <div class="titulo-precio">
+                        <div class="property-title-flex">
+                            <a href="https://facilhouse.com/modelo-casa/penates-xl/">Penates XL</a>
+                        </div>
+                        <div class="price-flex" style="">
+                            <span class="price-start">Desde</span><span class="item-price">67.087 €</span>                            
+                        </div>
+                    </div>
+                    <div class="amenities-materiales">
+                        <div class="amenities-flex">
+                            <p><span class="h-beds"><img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/cama.svg" alt="habitaciones" width="20" height="20" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/cama.svg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/cama.svg" alt="habitaciones" width="20" height="20"></noscript>: 2</span><span class="h-baths"><img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/banyera.svg" alt="Baños" width="13" height="13" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/banyera.svg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/banyera.svg" alt="Baños" width="13" height="13"></noscript>: 1</span><span class="h-area">20 m²</span></p>                        </div>              
+                        <div class="materiales-flex">
+                            <p><span>|&nbsp;&nbsp;</span>
+                                                                madera                            </p>                            
+                        </div>
+                    </div>
+                    <div class="empresa-items-flex">
+                        <div style="font-size:14px;" class="text-empresa-flex">
+                            Empresa:
+                        </div>
+                        <div style="font-weight:bold" class="empresa-flex prop-user-agent">
+                                                                                            
+                                
+                            
+                                                            <a href="https://facilhouse.com/empresa/serenahouse/">Serena.House</a>                                                     </div>
+                    </div>
+                    <div class="contactes-empresa-flex">
+                        <div class="telefon-flex">
+                                                            <!-- telèfon en ús  -->
+                                                                                                <div class="num-telefono" id="penatesxlp" style="display:none;">
+                                    744 476 986                                </div>
+                                <!-- ver tel. -->
+                                                                        <form method="post" action="" id="vertel_form-25548" style="display:inline;">
+                                        <input type="hidden" name="vertel_ajax_nonce" id="vertel_ajax_nonce-25548" value="afc43b6c0e">
+                                        <input type="hidden" name="action" value="vertel_agent">
+                                        <input type="hidden" name="empresa" value="Serena.House ">
+                                        <input type="hidden" name="propiedad" value="Penates XL">
+                                        <input type="hidden" name="fechahora" value="2024-12-10 17:01:34">
+                                        <input type="hidden" name="clicbtn" value="1">
+                                        <button type="submit" title="Click para mostrar el teléfono" id="penatesxl" class="vertel_agent_btn llamar-mobile" data-id="25548">
+                                            <img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/telefono_azul.svg" alt="teléfono" class="icons-profiles entered lazyloaded" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/telefono_azul.svg" data-ll-status="loaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/telefono_azul.svg" alt="teléfono" class="icons-profiles" width="16" height="16"></noscript>Ver tel.                                        </button>
+                                    </form>
+                                <!--/ ver tel. -->
+                                                    </div>
+                                                
+                            <div class="whatsapp-flex">
+                            <a id="a_whatsapp-25548" href="https://wa.me/744476986?text=Hola,%20me%20interesa%20la%20casa%20«Penates XL»" target="_blank" title="Me interesa la casa «Penates XL»" alt="Contactar mediante WhapsApp" style="display:none;visibility:hidden;opacity:0">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%2016'%3E%3C/svg%3E" alt="Whatsapp" class="icons-profiles" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" alt="Whatsapp" class="icons-profiles" width="16" height="16"></noscript><span>WhatsApp</span>
+                                </a>
+                                <!-- whatsapp -->
+                                                                <form method="post" action="" id="whatsapp_form-25548" style="display:inline;">
+                                    <input type="hidden" name="whatsapp_ajax_nonce" id="whatsapp_ajax_nonce-25548" value="7c5a7f5666">
+                                    <input type="hidden" name="action" value="whatsapp_agent">
+                                    <input type="hidden" name="empresa" value="Serena.House ">
+                                    <input type="hidden" name="propiedad" value="Penates XL">
+                                    <input type="hidden" name="fechahora" value="2024-12-10 17:01:34">
+                                    <input type="hidden" name="clicbtn" value="1">
+                                    <button type="submit" title="Me interesa la casa «Penates XL»" id="whatsapp_agent_btn-25548" class="whatsapp_agent_btn btn-whatsapp-m" data-id="25548">
+                                            <img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" alt="Contactar mediante WhapsApp" class="icons-profiles entered lazyloaded" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" data-ll-status="loaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" alt="Contactar mediante WhapsApp" class="icons-profiles" width="16" height="16"></noscript>
+                                            <span>WhatsApp</span>
+                                    </button>
+                                </form>                                
+                                <!--/ whatsapp-->  
+                            </div>
+                                                <div class="contactar-flex">
+                            <button type="button" class="btn btn-primary boto boto-flex" title="Contacta con la empresa" data-toggle="modal" data-id="25548" data-authorid="158" data-target="#myModalContact-25548">
+                                    <img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/correo_azul.svg" alt="Contactar" class="icons-profiles entered lazyloaded" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/correo_azul.svg" data-ll-status="loaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/correo_azul.svg" alt="Contactar" class="icons-profiles" width="16" height="16"></noscript>Contactar                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div><!--/ property-item -->
+            <div style="height:0;max-width:50%;display:flex">
+                    <span class="simplefavorite-button" data-postid="25548" data-siteid="1" data-groupid="1" data-favoritecount="0" style=""><div title="Guardar casa" class="heart-empty"></div></span>                </div>
+            <!--/ nou disseny desktop/tablet -->
+                    </div> <!-- end item-wrap (for desktop/tablet)--> 
+
+            <!-- Modal contactar -->
+        <div id="myModalContact-25548" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal"><i style="font-size:28px;" class="fa fa-times" aria-hidden="true"></i></button>
+                        <p class="modal-title fhmodal">Contactar</p>
+                    </div>
+                    <div class="modal-body">
+                        <p>Loading...</p>
+                    </div>
+                </div>
+            </div>
+        </div> <!-- fin modal contactar -->
+
+<!-- MOSTRAR SOLO MODELOS -->
+     
+<!-- MODELOS: -->
+        <div id="ID-22331" class="item-wrap infobox_trigger  item-larun">
+            <!-- nou disseny desktop/tablet -->
+            <div class="etiqueta-destacada" style="height:0">
+                            </div>
+            <div class="property-item property-item-flex">
+               
+                <div class="imatge-flex">
+                                                           <!-- -->
+                        <!-- Slider main container -->
+                        <div class="swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
+                            <!-- Additional required wrapper -->
+                            <div class="swiper-wrapper" id="swiper-wrapper-80730d76bd35d5ed" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+                                <!-- Slides -->
+                                <img alt="Larun" data-id="https://facilhouse.com/modelo-casa/larun/" class="swiper-slide entered lazyloaded swiper-slide-active" src="https://facilhouse.com/wp-content/uploads/2021/12/casa-madera-kbost-larun-570x340.jpg" data-lazy-src="https://facilhouse.com/wp-content/uploads/2021/12/casa-madera-kbost-larun-570x340.jpg" role="group" aria-label="1 / 1" style="width: 464px;" data-ll-status="loaded"><noscript><img alt="Larun" data-id="https://facilhouse.com/modelo-casa/larun/" class="swiper-slide" src="https://facilhouse.com/wp-content/uploads/2021/12/casa-madera-kbost-larun-570x340.jpg"></noscript>                                ...
+                            </div>
+                            <!-- pagination -->
+                            <div class="swiper-pagination swiper-pagination-bullets swiper-pagination-horizontal swiper-pagination-lock"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" aria-current="true"></span></div>
+
+                            <!-- navigation buttons -->
+                            <div class="swiper-button-prev swiper-button-disabled swiper-button-lock" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-80730d76bd35d5ed" aria-disabled="true"></div>
+                            <div class="swiper-button-next swiper-button-disabled swiper-button-lock" tabindex="-1" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-80730d76bd35d5ed" aria-disabled="true"></div>
+                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                    <!-- -->                                   
+                </div>
+      
+                <div class="caracteristicas-flex">
+                    <div class="titulo-precio">
+                        <div class="property-title-flex">
+                            <a href="https://facilhouse.com/modelo-casa/larun/">Larun</a>
+                        </div>
+                        <div class="price-flex" style="">
+                            <span class="item-price">Consultar</span>                            
+                        </div>
+                    </div>
+                    <div class="amenities-materiales">
+                        <div class="amenities-flex">
+                            <p><span class="h-beds"><img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/cama.svg" alt="habitaciones" width="20" height="20" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/cama.svg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/cama.svg" alt="habitaciones" width="20" height="20"></noscript>: 1</span><span class="h-baths"><img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/banyera.svg" alt="Baños" width="13" height="13" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/banyera.svg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/banyera.svg" alt="Baños" width="13" height="13"></noscript>: 2</span><span class="h-area">52 m²</span></p>                        </div>              
+                        <div class="materiales-flex">
+                            <p><span>|&nbsp;&nbsp;</span>
+                                                                madera                            </p>                            
+                        </div>
+                    </div>
+                    <div class="empresa-items-flex">
+                        <div style="font-size:14px;" class="text-empresa-flex">
+                            Empresa:
+                        </div>
+                        <div style="font-weight:bold" class="empresa-flex prop-user-agent">
+                                                                                            
+                                
+                            
+                                                            <a href="https://facilhouse.com/empresa/kbost/">KBOST</a>                                                     </div>
+                    </div>
+                    <div class="contactes-empresa-flex">
+                        <div class="telefon-flex">
+                                                            <!-- telèfon en ús  -->
+                                                                                                <div class="num-telefono" id="larunp" style="display:none;">
+                                    696 830 620                                </div>
+                                <!-- ver tel. -->
+                                                                        <form method="post" action="" id="vertel_form-22331" style="display:inline;">
+                                        <input type="hidden" name="vertel_ajax_nonce" id="vertel_ajax_nonce-22331" value="afc43b6c0e">
+                                        <input type="hidden" name="action" value="vertel_agent">
+                                        <input type="hidden" name="empresa" value="KBOST ">
+                                        <input type="hidden" name="propiedad" value="Larun">
+                                        <input type="hidden" name="fechahora" value="2024-12-10 17:01:34">
+                                        <input type="hidden" name="clicbtn" value="1">
+                                        <button type="submit" title="Click para mostrar el teléfono" id="larun" class="vertel_agent_btn llamar-mobile" data-id="22331">
+                                            <img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/telefono_azul.svg" alt="teléfono" class="icons-profiles entered lazyloaded" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/telefono_azul.svg" data-ll-status="loaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/telefono_azul.svg" alt="teléfono" class="icons-profiles" width="16" height="16"></noscript>Ver tel.                                        </button>
+                                    </form>
+                                <!--/ ver tel. -->
+                                                    </div>
+                                                
+                            <div class="whatsapp-flex">
+                            <a id="a_whatsapp-22331" href="https://wa.me/696830620?text=Hola,%20me%20interesa%20la%20casa%20«Larun»" target="_blank" title="Me interesa la casa «Larun»" alt="Contactar mediante WhapsApp" style="display:none;visibility:hidden;opacity:0">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%2016'%3E%3C/svg%3E" alt="Whatsapp" class="icons-profiles" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" alt="Whatsapp" class="icons-profiles" width="16" height="16"></noscript><span>WhatsApp</span>
+                                </a>
+                                <!-- whatsapp -->
+                                                                <form method="post" action="" id="whatsapp_form-22331" style="display:inline;">
+                                    <input type="hidden" name="whatsapp_ajax_nonce" id="whatsapp_ajax_nonce-22331" value="7c5a7f5666">
+                                    <input type="hidden" name="action" value="whatsapp_agent">
+                                    <input type="hidden" name="empresa" value="KBOST ">
+                                    <input type="hidden" name="propiedad" value="Larun">
+                                    <input type="hidden" name="fechahora" value="2024-12-10 17:01:34">
+                                    <input type="hidden" name="clicbtn" value="1">
+                                    <button type="submit" title="Me interesa la casa «Larun»" id="whatsapp_agent_btn-22331" class="whatsapp_agent_btn btn-whatsapp-m" data-id="22331">
+                                            <img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" alt="Contactar mediante WhapsApp" class="icons-profiles entered lazyloaded" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" data-ll-status="loaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/whatsapp.svg" alt="Contactar mediante WhapsApp" class="icons-profiles" width="16" height="16"></noscript>
+                                            <span>WhatsApp</span>
+                                    </button>
+                                </form>                                
+                                <!--/ whatsapp-->  
+                            </div>
+                                                <div class="contactar-flex">
+                            <button type="button" class="btn btn-primary boto boto-flex" title="Contacta con la empresa" data-toggle="modal" data-id="22331" data-authorid="134" data-target="#myModalContact-22331">
+                                    <img src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/correo_azul.svg" alt="Contactar" class="icons-profiles entered lazyloaded" width="16" height="16" data-lazy-src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/correo_azul.svg" data-ll-status="loaded"><noscript><img loading="lazy" src="https://facilhouse.com/wp-content/themes/houzez-child/img/icons/correo_azul.svg" alt="Contactar" class="icons-profiles" width="16" height="16"></noscript>Contactar                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div><!--/ property-item -->
+            <div style="height:0;max-width:50%;display:flex">
+                    <span class="simplefavorite-button" data-postid="22331" data-siteid="1" data-groupid="1" data-favoritecount="0" style=""><div title="Guardar casa" class="heart-empty"></div></span>                </div>
+            <!--/ nou disseny desktop/tablet -->
+                    </div> <!-- end item-wrap (for desktop/tablet)--> 
+
+            <!-- Modal contactar -->
+        <div id="myModalContact-22331" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal"><i style="font-size:28px;" class="fa fa-times" aria-hidden="true"></i></button>
+                        <p class="modal-title fhmodal">Contactar</p>
+                    </div>
+                    <div class="modal-body">
+                        <p>Loading...</p>
+                    </div>
+                </div>
+            </div>
+        </div> <!-- fin modal contactar -->
+
+                </div>
+            </div>
+            <!--end property items-->
+
+            <hr>
+
+            <!--start Pagination-->
+                        <div class="paginacio">
+                <a href="https://facilhouse.com/page/30/"><span class="ant"><i class="fa fa-chevron-circle-left" aria-hidden="true"></i> Anterior</span></a> <a href="https://facilhouse.com/page/32/"><span class="sig">Siguiente <i class="fa fa-chevron-circle-right" aria-hidden="true"></i></span></a>                <br>
+                <p style="font-size:.85em">Página 31 de 65</p>            </div>
+            <!--end Pagination-->
+            <hr class="borde-faqs">
+                        
+
+            <!-- sidebar banner BOTTOM-->
+            <div class="sidebar-white-banner-bottom">
+                <div id="adrotate_widgets-26" class="adrotate_widgets"><!-- Error, ¡el anuncio no está disponible en este momento debido a restricciones de programación/geolocalización! --></div><div id="adrotate_widgets-24" class="adrotate_widgets"><div class="widget-top"><h3 class="widget-title">Empresas destacadas:</h3></div><div class="g g-2"><div class="g-col b-2 a-48"><a class="gofollow" data-track="NDgsMiwxLDYw" title="La Casa ESE" href="https://facilhouse.com/empresa/lacasaese/">
+  <img src="https://facilhouse.com/wp-content/uploads/2022/08/casa-hormigon-lacasaese-ese-5.jpg" alt="La Casa ESE" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/08/casa-hormigon-lacasaese-ese-5.jpg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://facilhouse.com/wp-content/uploads/2022/08/casa-hormigon-lacasaese-ese-5.jpg" alt="La Casa ESE"/></noscript>
+  <div class="bloque-titulo-emp">
+    <div class="titulo-anuncio-emp">La Casa ESE</div>
+    <div class="mat-casas">Casas de acero y hormigón</div>
+  </div>
+  <div class="bloque-construye">
+    <div class="t-construye">Construye en:</div>
+    <div class="construye-empresa">Andalucia, Asturias y Valencia</div>
+  </div>
+</a></div></div><div class="g g-2"><div class="g-col b-2 a-36"><a class="gofollow" data-track="MzYsMiwxLDYw" title="Grupo Cuni" href="https://facilhouse.com/empresa/cuni/">
+  <img src="https://facilhouse.com/wp-content/uploads/2022/05/casa-acero-hormigon-madera-cuni-B3HYoli.jpg" alt="Grupo CUNI" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/05/casa-acero-hormigon-madera-cuni-B3HYoli.jpg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://facilhouse.com/wp-content/uploads/2022/05/casa-acero-hormigon-madera-cuni-B3HYoli.jpg" alt="Grupo CUNI"/></noscript>
+  <div class="bloque-titulo-emp">
+    <div class="titulo-anuncio-emp">Grupo CUNI</div>
+    <div class="mat-casas">Casas de acero, madera y hormigón</div>
+  </div>
+  <div class="bloque-construye">
+    <div class="t-construye">Construye en:</div>
+    <div class="construye-empresa">Península, Baleares y Canarias</div>
+  </div>
+</a></div></div><div class="g g-2"><div class="g-col b-2 a-39"><a class="gofollow" data-track="MzksMiwxLDYw" title="Grupo Herrera" href="https://facilhouse.com/empresa/grupoherrera/">
+  <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Grupo Herrera" data-lazy-src="https://facilhouse.com/wp-content/uploads/2022/10/casa-acero-grupoherrera-gardenpool-4.jpg"><noscript><img src="https://facilhouse.com/wp-content/uploads/2022/10/casa-acero-grupoherrera-gardenpool-4.jpg" alt="Grupo Herrera"/></noscript>
+  <div class="bloque-titulo-emp">
+    <div class="titulo-anuncio-emp">Grupo Herrera</div>
+    <div class="mat-casas">Casas de acero</div>
+  </div>
+  <div class="bloque-construye">
+    <div class="t-construye">Construye en:</div>
+    <div class="construye-empresa">Península, Baleares y Canarias</div>
+  </div>
+</a></div></div></div><div id="adrotate_widgets-21" class="adrotate_widgets"><div class="widget-top"><h3 class="widget-title">Te puede interesar</h3></div><div class="a-single a-3"><!-- Quadrat -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8556503325490944" data-ad-slot="5284291399" data-ad-format="rectangle, horizontal" data-full-width-responsive="true"></ins></div></div>            </div>
+            <!--/ sidebar banner BOTTOM-->            
+
+        </div>
+    </div><!-- end container-content -->
+
+
+</div>

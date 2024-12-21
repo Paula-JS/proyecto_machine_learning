@@ -1,0 +1,723 @@
+metros_cuadrados,baños,habitaciones,material,modelo,empresa,precio
+73.0,2.0,2.0,"acero,hormigón,madera",Modelo B2H BS,Grupo CUNI,109500.0
+105.0,1.0,2.0,madera,Casa Prefabricada 105,Norges Hus,
+185.0,2.0,3.0,"acero,hormigón,madera",Zaero Masía Rustico,ZAEROWORKING SL,297400.0
+130.0,2.0,3.0,madera,Riekko,Forest House,181300.0
+161.0,2.0,4.0,madera,Ailo,Forest House,241500.0
+104.0,1.0,1.0,madera,Casa Prefabricada 104,Norges Hus,
+208.0,2.0,3.0,madera,Lux,Forest House,291200.0
+100.0,1.0,2.0,madera,Kvartsi,Forest House,150000.0
+105.0,2.0,3.0,"acero,hormigón",ESE,La casa ESE,147700.0
+106.0,1.0,2.0,madera,Kaamos,Forest House,159000.0
+120.0,2.0,3.0,madera,Vista 1-storey,Forest House,168000.0
+164.0,2.0,3.0,"acero,hormigón",Pareados Designyou,ZAEROWORKING SL,189854.0
+49.0,1.0,1.0,"acero,hormigón,madera",Modelo B-1HSP 49,Grupo CUNI,73500.0
+80.0,1.0,2.0,madera,Syli,Forest House,112000.0
+73.0,1.0,2.0,"acero,hormigón,madera",Modelo B-2HT 73,Grupo CUNI,109500.0
+100.0,1.0,3.0,madera,Kommodori,Forest House,150000.0
+120.0,2.0,4.0,madera,Halti,Forest House,180000.0
+42.0,1.0,1.0,"acero,hormigón",Micro ESE,La casa ESE,87700.0
+70.0,1.0,2.0,acero,Modelo India,Grupo Herrera,120000.0
+193.0,2.0,3.0,madera,Lumikello,Forest House,269500.0
+216.0,2.0,4.0,madera,Legenda,Casastar,
+171.0,3.0,4.0,madera,Arucas,Madelar,
+110.0,2.0,3.0,hormigón,Gama,Modunova,
+47.0,1.0,2.0,madera,Sella,Alucasa,61480.0
+19.0,1.0,1.0,acero,Pocket 2,KEU,40000.0
+102.0,1.0,2.0,madera,Casa prefabricada 102,Norges Hus,
+123.0,2.0,4.0,madera,Vegueta,Madelar,
+30.0,1.0,1.0,acero,Tiny House 30,Proyectos y Modulares,35427.0
+219.0,3.0,3.0,madera,WES206P2,WES,291500.0
+59.0,1.0,2.0,madera,Soto 58,Madereco,
+120.0,2.0,4.0,madera,Halti,Forest House,180000.0
+73.0,1.0,3.0,"acero,hormigón,madera",Modelo B-2H HV 73,Grupo CUNI,109500.0
+49.0,1.0,2.0,"acero,hormigón,madera",Modelo B-2H 49,Grupo CUNI,73500.0
+64.0,1.0,2.0,madera,Tuuli,Forest House,89600.0
+105.0,1.0,2.0,madera,Casa Prefabricada 105,Norges Hus,
+74.0,1.0,3.0,"acero,hormigón,madera",Modelo B-3H 73,Grupo CUNI,111000.0
+98.0,2.0,3.0,"acero,hormigón,madera",Modelo B-3H Tina,Grupo CUNI,147000.0
+49.0,1.0,1.0,"acero,hormigón,madera",Modelo B-1HP 49,Grupo CUNI,73500.0
+70.0,1.0,3.0,acero,Garden Pool,Grupo Herrera,89480.0
+98.0,2.0,2.0,"acero,hormigón,madera",Modelo B-1H XL 98,Grupo CUNI,147000.0
+130.0,2.0,2.0,madera,Ahto,Forest House,195000.0
+138.0,2.0,3.0,madera,Suvi,Forest House,207000.0
+160.0,2.0,4.0,madera,Mambo,Forest House,224000.0
+161.0,2.0,4.0,madera,Ailo,Forest House,241500.0
+179.0,2.0,3.0,madera,Kevät,Forest House,249900.0
+73.0,1.0,2.0,"acero,hormigón,madera",Modelo B-2HT 73,Grupo CUNI,109500.0
+30.0,1.0,1.0,acero,Urban,Grupo Herrera,42000.0
+42.0,1.0,1.0,"acero,hormigón",Micro ESE,La casa ESE,87700.0
+247.0,2.0,3.0,"acero,hormigón,madera",Unifamiliar ZAERO Rosé,ZAEROWORKING SL,267700.0
+104.0,1.0,1.0,madera,Casa Prefabricada 104,Norges Hus,
+128.0,1.0,3.0,hormigón,Tramontana,Modunova,
+168.0,2.0,4.0,madera,Liz,Las Casas Modulares,238560.0
+139.0,2.0,3.0,acero,Modelo 2P T3 R13,Modiko,
+150.0,3.0,4.0,acero,Modelo 150001,Pro-Gal Construcciones Prefabricadas,150000.0
+239.0,3.0,4.0,madera,Euskadi 240,Madereco,
+154.0,2.0,3.0,madera,Modelo 150,Nordikasa,
+156.0,2.0,3.0,hormigón,Modelo Abla,Diseño Modular,179400.0
+80.0,1.0,2.0,hormigón,Modelo T1,"Forpol Estructuras, S.L.",104000.0
+100.0,2.0,3.0,madera,Modelo 100005,Pro-Gal Construcciones Prefabricadas,100000.0
+184.0,3.0,5.0,madera,Castro 185,Madereco,
+130.0,2.0,3.0,madera,Riekko,Forest House,181300.0
+49.0,1.0,1.0,"acero,hormigón,madera",Modelo B-1HSP 49,Grupo CUNI,73500.0
+130.0,2.0,2.0,madera,Tuuma 1-storey,Forest House,195000.0
+35.0,1.0,1.0,madera,Modelo 35-2,Kolbeg,54750.0
+70.0,1.0,2.0,acero,Modelo India,Grupo Herrera,120000.0
+104.0,1.0,1.0,madera,Casa Prefabricada 104,Norges Hus,
+98.0,2.0,3.0,"acero,hormigón,madera",Modelo B-3H Tina,Grupo CUNI,147000.0
+42.0,1.0,1.0,"acero,hormigón,madera",Modelo B-1HP,Grupo CUNI,63000.0
+155.0,3.0,3.0,"acero,hormigón",Super ESE,La casa ESE,207700.0
+73.0,1.0,3.0,"acero,hormigón,madera",Modelo B-3H T 73,Grupo CUNI,109500.0
+73.0,1.0,3.0,"acero,hormigón,madera",Modelo B-2H HV 73,Grupo CUNI,109500.0
+49.0,1.0,1.0,"acero,hormigón,madera",Modelo B-1HP 49,Grupo CUNI,73500.0
+164.0,2.0,3.0,"acero,hormigón",Pareados Designyou,ZAEROWORKING SL,189854.0
+106.0,1.0,2.0,madera,Kaamos,Forest House,159000.0
+120.0,2.0,3.0,madera,Myrsky,Forest House,168000.0
+96.0,2.0,3.0,"acero,hormigón,madera",Modelo B-3H Yoli,Grupo CUNI,144000.0
+160.0,2.0,5.0,madera,Harmonia 2-storey,Forest House,224000.0
+105.0,1.0,2.0,madera,Casa Prefabricada 105,Norges Hus,
+35.0,1.0,1.0,madera,Modelo 3,Kolbeg,57300.0
+100.0,1.0,3.0,madera,Kommodori,Forest House,150000.0
+25.0,1.0,1.0,madera,Kide,Forest House,35000.0
+110.0,1.0,2.0,acero,Modelo 1P T2 R03,Modiko,
+39.0,1.0,2.0,madera,Johana,Mi Casa de Madera,35300.0
+70.0,1.0,3.0,acero,Cabrejas,Soria Modular,69500.0
+94.0,2.0,2.0,madera,Tirma,Madelar,
+165.0,2.0,3.0,"acero,hormigón",Tundra 3D,Atlántida Homes,353500.0
+53.0,1.0,2.0,madera,Casa 53,Madercás,
+189.0,2.0,3.0,madera,WES170P1,WES,273000.0
+33.0,1.0,1.0,acero,Nomad,KEU,60000.0
+93.0,2.0,4.0,madera,Modelo CM 30,Casas Nuevas Low Cost,76800.0
+35.0,1.0,1.0,madera,Modelo 3,Kolbeg,57300.0
+73.0,2.0,2.0,"acero,hormigón,madera",Modelo B2H BS,Grupo CUNI,109500.0
+98.0,2.0,2.0,"acero,hormigón,madera",Modelo B-1H XL 98,Grupo CUNI,147000.0
+73.0,1.0,2.0,"acero,hormigón,madera",Modelo B-2HT 73,Grupo CUNI,109500.0
+70.0,1.0,3.0,madera,Soihtu,Forest House,105000.0
+98.0,2.0,3.0,"acero,hormigón,madera",Modelo B-3H Tina,Grupo CUNI,147000.0
+164.0,2.0,4.0,madera,Vista,Forest House,229600.0
+84.0,1.0,2.0,madera,Saari,Forest House,117600.0
+100.0,1.0,3.0,madera,Kommodori,Forest House,150000.0
+60.0,1.0,2.0,madera,Sirius,Forest House,90000.0
+80.0,1.0,2.0,madera,Syli,Forest House,112000.0
+73.0,1.0,3.0,"acero,hormigón,madera",Modelo B-3H T 73,Grupo CUNI,109500.0
+30.0,1.0,1.0,acero,Urban,Grupo Herrera,42000.0
+45.0,1.0,1.0,madera,Modelo 45,Kolbeg,67050.0
+75.0,1.0,2.0,hormigón,Modular Medium,Modular-House,
+340.0,3.0,4.0,madera,Modelo 285,GSI Constructora,
+120.0,1.0,3.0,madera,Tarragona,Mi Casa de Madera,149710.0
+235.0,3.0,4.0,hormigón,Barbados,Bi·Homes,431319.0
+110.0,2.0,2.0,acero,Modelo 1P T2 L02,Modiko,
+150.0,3.0,3.0,acero,T13 150,Atictec,220500.0
+131.0,2.0,3.0,acero,Project 131,H.C.I Ecoedificación,
+202.0,2.0,4.0,madera,Everest 202,Madereco,
+115.0,2.0,4.0,madera,Imada,Madelar,
+160.0,3.0,4.0,"acero,hormigón",Atlas 4D,Atlántida Homes,352800.0
+300.0,5.0,5.0,"acero,hormigón,madera",Modelo T-300,,397510.0
+261.0,3.0,5.0,madera,Eduard,Casastar,
+100.0,2.0,3.0,"acero,hormigón,madera",Modelo S-100,,158551.0
+173.0,2.0,2.0,madera,Modelo 162,GSI Constructora,
+54.0,1.0,2.0,acero,SORIA modular,Cortabitarte,44900.0
+182.0,1.0,4.0,madera,Olympia M,TUCASAECO SOSTENIBLE,
+106.0,2.0,3.0,hormigón,Polaris,Modunova,
+309.0,3.0,3.0,madera,Smart 309,Madereco,
+221.0,3.0,3.0,madera,Tuluza,Casastar,
+142.0,2.0,3.0,acero,Modelo 1P T3 R10,Modiko,
+210.0,3.0,4.0,hormigón,Casa Hormipresa M2,Hormipresa Living,294000.0
+116.0,1.0,3.0,madera,Modelo Texas,Grupo CUNI,174000.0
+160.0,3.0,4.0,acero,Modelo 160001,Pro-Gal Construcciones Prefabricadas,160000.0
+42.0,1.0,1.0,acero,Mobile Home Miravet,ACASATEVA,40000.0
+128.0,1.0,2.0,madera,Modelo Habana,Grupo CUNI,192000.0
+218.0,3.0,3.0,madera,Modelo TKM-202,Tokamadera,316100.0
+220.0,2.0,4.0,acero,Modelo 1P T4 R02,Modiko,
+302.0,3.0,3.0,acero,Modelo 2P T3 L02,Modiko,
+93.0,2.0,4.0,madera,Modelo CM 30,Casas Nuevas Low Cost,76800.0
+110.0,1.0,2.0,acero,Modelo 1P T2 R03,Modiko,
+120.0,2.0,4.0,"acero,hormigón",Casa 3,La Fabrica de Casas,
+163.0,2.0,3.0,acero,Modelo 1P T3 U05,Modiko,
+30.0,1.0,1.0,acero,Cubic 30,Cubic House,49549.0
+200.0,3.0,3.0,acero,Modelo 200002,Pro-Gal Construcciones Prefabricadas,200000.0
+95.0,2.0,2.0,madera,Lleida,Mi Casa de Madera,120010.0
+161.0,2.0,2.0,acero,Modelo 1P T2 L03,Modiko,
+110.0,1.0,2.0,acero,Modelo 1P T2 R03,Modiko,
+52.0,1.0,2.0,madera,Apellaniz,KBOST,
+216.0,3.0,3.0,madera,Catalina,Arboretum Haus,360000.0
+40.0,1.0,1.0,madera,Paula,Mi Casa de Madera,39300.0
+117.0,1.0,2.0,madera,Casa 117,Madercás,
+39.0,1.0,2.0,acero,Carolina,Casas Prefabricadas López S.L.,
+153.0,2.0,3.0,hormigón,Modelo Ametlla,Quarta Paret,330000.0
+120.0,1.0,3.0,madera,ST MTB SEVEN,Steel Hous,
+59.0,1.0,2.0,madera,Modelo CM 10,Casas Nuevas Low Cost,51800.0
+72.0,2.0,3.0,acero,Kube 3,Geacon,74250.0
+40.0,1.0,1.0,madera,Paula,Mi Casa de Madera,39300.0
+150.0,2.0,3.0,madera,Modelo 1150,GSI Constructora,
+15.0,1.0,1.0,acero,Tiny House 15,Proyectos y Modulares,20878.0
+393.0,2.0,3.0,madera,Vitoria,LuxServis Eco Edificaciones,393000.0
+134.0,2.0,4.0,madera,Angelina,Las Casas Modulares,190280.0
+500.0,6.0,4.0,acero,Modelo Passivhaus 500,CSO ARQUITECTURA,
+94.0,2.0,2.0,madera,Tirma,Madelar,
+40.0,1.0,2.0,"acero,madera",ST MTB Mobile Home L,Steel Hous,
+169.0,2.0,4.0,madera,Modelo 239,GSI Constructora,
+70.0,2.0,2.0,acero,Modelo 70002,Pro-Gal Construcciones Prefabricadas,70000.0
+269.0,4.0,3.0,madera,Modelo 1269,GSI Constructora,
+80.0,1.0,2.0,hormigón,Modelo T1,"Forpol Estructuras, S.L.",104000.0
+165.0,2.0,3.0,acero,Galileo,Oyrsa Modular,
+35.0,1.0,2.0,madera,Mohma Compact,Woodville,55000.0
+140.0,2.0,4.0,madera,Casa 140,Madercás,
+120.0,3.0,3.0,acero,Serie Victoria,DE40 PIES. Casas Container,
+236.0,3.0,3.0,madera,Modelo TKM-211,Tokamadera,342200.0
+349.0,2.0,3.0,madera,Barcelona,LuxServis Eco Edificaciones,349000.0
+209.0,2.0,4.0,acero,Modelo 2P T4 R05,Modiko,
+174.0,2.0,3.0,madera,Suomi,Casastar,
+47.0,1.0,2.0,madera,Sella,Alucasa,61480.0
+176.0,2.0,4.0,madera,Saturn,TUCASAECO SOSTENIBLE,
+44.0,1.0,2.0,acero,Family,KEU,80000.0
+165.0,2.0,3.0,"acero,hormigón",Tundra 3D,Atlántida Homes,353500.0
+221.0,2.0,4.0,acero,Modelo 1P T4 R03,Modiko,
+120.0,2.0,4.0,"acero,hormigón",Casa 3,La Fabrica de Casas,
+130.0,3.0,4.0,madera,Barcelona,Casas Prefabricadas López S.L.,
+205.0,3.0,4.0,acero,Modelo Passivhaus 205,CSO ARQUITECTURA,329500.0
+72.0,1.0,1.0,acero,Conjunto Modular 11x8m,Digavasa,
+55.0,1.0,2.0,madera,Modelo 55003,Pro-Gal Construcciones Prefabricadas,55000.0
+340.0,3.0,4.0,madera,Modelo 285,GSI Constructora,
+180.0,3.0,5.0,acero,Serie Pacífico,DE40 PIES. Casas Container,
+171.0,3.0,4.0,madera,Arucas,Madelar,
+218.0,2.0,3.0,hormigón,MODELO M1,"Forpol Estructuras, S.L.",228078.0
+93.0,1.0,3.0,madera,Azul 93,Madercás,
+130.0,1.0,3.0,madera,Huesca,Casas Prefabricadas López S.L.,
+55.0,1.0,2.0,hormigón,Alisio Porche,Modunova,
+124.0,2.0,4.0,madera,Gerda,Mi Casa de Madera,153868.0
+367.0,2.0,4.0,madera,Prestigio,Kolbeg,568850.0
+131.0,2.0,3.0,madera,WES121P1,WES,195000.0
+120.0,2.0,3.0,madera,San Sebastián,Mi Casa de Madera,149710.0
+135.0,2.0,3.0,madera,Tamaduste,Madelar,
+171.0,3.0,3.0,madera,Modelo TKM-207,Tokamadera,247950.0
+54.0,1.0,2.0,madera,Ingrid,Mi Casa de Madera,42471.0
+200.0,2.0,3.0,acero,Modelo 200001,Pro-Gal Construcciones Prefabricadas,200000.0
+72.0,1.0,2.0,"acero,hormigón",La Manga,Home Center,66460.0
+100.0,2.0,3.0,acero,Especial,Cases Caliu,
+141.0,2.0,3.0,acero,Modelo 1P T3 R03,Modiko,
+178.0,3.0,4.0,hormigón,Casa Hormipresa L1,Hormipresa Living,249200.0
+60.0,1.0,2.0,madera,Barcelona,Mi Casa de Madera,78430.0
+100.0,2.0,3.0,acero,Modelo 1,ACASATEVA,120000.0
+219.0,3.0,3.0,madera,WES206P2,WES,291500.0
+110.0,1.0,2.0,acero,Gala,Casas Prefabricadas López S.L.,
+20.0,1.0,1.0,"acero,madera",ST MTB T,Steel Hous,
+221.0,2.0,3.0,acero,Modelo 1P T4 L05,Modiko,
+300.0,5.0,4.0,acero,Eco-Acua,Acero Eco Home,
+175.0,2.0,3.0,madera,WES165P1,WES,264500.0
+170.0,2.0,3.0,madera,Tigalate,Madelar,
+349.0,3.0,4.0,madera,Victoria,Casastar,
+70.0,1.0,3.0,acero,Modelo 70001,Pro-Gal Construcciones Prefabricadas,70000.0
+158.0,2.0,3.0,acero,Modelo 1P T3 L01,Modiko,
+80.0,1.0,3.0,madera,Taburiente,Madelar,
+179.0,1.0,3.0,madera,Domus M,TUCASAECO SOSTENIBLE,
+35.0,1.0,2.0,madera,Noa,Alucasa,53840.0
+112.0,2.0,2.0,madera,Casa prefabricada 112,Norges Hus,
+298.0,3.0,5.0,madera,Clave,Casastar,
+68.0,1.0,3.0,madera,Modelo CM 20,Casas Nuevas Low Cost,56800.0
+70.0,1.0,2.0,madera,Pamplona,Mi Casa de Madera,84910.0
+349.0,3.0,4.0,madera,Victoria,Casastar,
+75.0,1.0,3.0,madera,A – Young+,Maslow Homes,
+148.0,1.0,1.0,madera,Piter,Kolbeg,229400.0
+98.0,1.0,2.0,madera,Elisa,Mi Casa de Madera,115376.0
+239.0,2.0,4.0,acero,Modelo 1P T4 L03,Modiko,
+154.0,2.0,3.0,madera,Modelo 150,Nordikasa,
+198.0,1.0,1.0,madera,OKA Suvila,OKA Room,26000.0
+47.0,1.0,1.0,"acero,madera",House 130,STUDIOTEC,65800.0
+54.0,1.0,2.0,acero,Project 54,H.C.I Ecoedificación,
+72.0,1.0,2.0,madera,Modelo Fresno,Grupo CUNI,108000.0
+53.0,1.0,2.0,madera,Casa 53,Madercás,
+88.0,2.0,3.0,madera,Modelo Júcar,ABS American Building System,111080.0
+142.0,2.0,4.0,madera,Modelo 1.5,MeniArt,
+55.0,1.0,2.0,acero,Modelo 55002,Pro-Gal Construcciones Prefabricadas,54580.0
+221.0,3.0,3.0,madera,Tuluza,Casastar,
+72.0,2.0,3.0,acero,Kube 3,Geacon,74250.0
+130.0,2.0,2.0,acero,Modelo 1P T2 R04,Modiko,
+110.0,2.0,3.0,acero,Valdeavellano,Soria Modular,
+165.0,2.0,3.0,acero,Galileo,Oyrsa Modular,
+91.0,2.0,3.0,madera,Modelo Vesna,MonteBálsamo,
+302.0,4.0,4.0,acero,Modelo 1P T4 L02,Modiko,
+64.0,1.0,2.0,madera,Casa 64,Madercás,
+81.0,2.0,2.0,madera,Alabama 2D,Alucasa,104930.0
+309.0,3.0,3.0,madera,Smart 309,Madereco,
+112.0,2.0,3.0,madera,Casa 90,Madercás,
+90.0,1.0,3.0,madera,Guadalajara,Mi Casa de Madera,114070.0
+59.0,1.0,2.0,madera,Soto 58,Madereco,
+250.0,3.0,4.0,acero,Modelo Passivhaus 250,CSO ARQUITECTURA,331500.0
+242.0,2.0,4.0,madera,Ivalo,Forest House,363000.0
+280.0,3.0,4.0,acero,Modelo 1P T4 U01,Modiko,
+66.0,1.0,3.0,madera,Modelo Kempes,MonteBálsamo,
+154.0,1.0,3.0,madera,Cristal,Casastar,
+98.0,2.0,3.0,acero,Eco-Live,Acero Eco Home,
+159.0,3.0,3.0,madera,Modelo TKM-204,Tokamadera,230550.0
+120.0,1.0,3.0,madera,Tarragona,Mi Casa de Madera,149710.0
+90.0,1.0,2.0,acero,Cubic 90,Cubic House,145133.0
+156.0,2.0,3.0,hormigón,Modelo Abla,Diseño Modular,179400.0
+95.0,2.0,3.0,madera,Modelo 1.6,MeniArt,
+72.0,2.0,2.0,"acero,hormigón",Doñana,Home Center,69300.0
+164.0,1.0,2.0,madera,Wais,Kolbeg,254200.0
+238.0,2.0,4.0,acero,Berossus,Oyrsa Modular,
+260.0,2.0,2.0,madera,Mallorca,LuxServis Eco Edificaciones,260000.0
+191.0,2.0,2.0,madera,Muster,TUCASAECO SOSTENIBLE,
+258.0,3.0,4.0,madera,Aron,Casastar,
+90.0,2.0,2.0,acero,Modelo 90,Shekari,175000.0
+115.0,2.0,4.0,madera,Imada,Madelar,
+163.0,2.0,3.0,madera,Solnech,Casastar,
+309.0,3.0,3.0,madera,Smart 309,Madereco,
+110.0,1.0,2.0,madera,Markki 1-storey,Forest House,165000.0
+191.0,2.0,3.0,hormigón,Mukava,Hormitech,270000.0
+110.0,2.0,3.0,hormigón,Gama,Modunova,
+180.0,1.0,3.0,madera,Denia,LuxServis Eco Edificaciones,180000.0
+182.0,1.0,4.0,madera,Olympia M,TUCASAECO SOSTENIBLE,
+60.0,1.0,2.0,madera,Logroño,Mi Casa de Madera,78430.0
+310.0,4.0,4.0,acero,Eco-Zen,Acero Eco Home,
+128.0,1.0,3.0,hormigón,Tramontana,Modunova,
+131.0,3.0,2.0,acero,Modelo Passivhaus 135,CSO ARQUITECTURA,156500.0
+260.0,2.0,2.0,madera,Modelo TKM-212,Tokamadera,377000.0
+39.0,1.0,1.0,acero,Dina,Casas Prefabricadas López S.L.,
+55.0,1.0,2.0,madera,Modelo 55003,Pro-Gal Construcciones Prefabricadas,55000.0
+36.0,1.0,2.0,acero,Campus,Casas Prefabricadas López S.L.,
+90.0,1.0,3.0,madera,Huesca,Mi Casa de Madera,114070.0
+70.0,2.0,3.0,madera,Madrid,Mi Casa de Madera,75999.0
+308.0,3.0,4.0,madera,Diuna,Casastar,
+72.0,2.0,3.0,acero,Kube 3,Geacon,74250.0
+55.0,1.0,2.0,hormigón,Alisio Porche,Modunova,
+342.0,4.0,4.0,madera,Cabuerniga 342,Madereco,
+102.0,1.0,3.0,acero,ECO-LINEA 102.3.1,Wigarma,
+79.0,1.0,2.0,madera,Casa 79,Madercás,
+118.0,2.0,3.0,madera,Anna,Las Casas Modulares,167560.0
+131.0,3.0,2.0,acero,Modelo Passivhaus 135,CSO ARQUITECTURA,156500.0
+80.0,1.0,2.0,hormigón,Modelo T1,"Forpol Estructuras, S.L.",104000.0
+132.0,2.0,2.0,madera,Casa 132,Madercás,
+85.0,2.0,3.0,madera,Esther,Mi Casa de Madera,108367.0
+100.0,2.0,3.0,hormigón,Indie,Modunova,
+145.0,2.0,3.0,acero,PREMIER 145.3.2,Wigarma,
+10.0,1.0,1.0,madera,Mini Plus,Serena.House,39811.0
+60.0,1.0,3.0,madera,Modelo 60001,Pro-Gal Construcciones Prefabricadas,60000.0
+26.0,1.0,1.0,acero,Numancia,Cortabitarte,23500.0
+103.0,2.0,3.0,acero,Project 103 CP,H.C.I Ecoedificación,
+118.0,2.0,3.0,madera,Anna,Las Casas Modulares,167560.0
+93.0,2.0,4.0,madera,Modelo CM 30,Casas Nuevas Low Cost,76800.0
+148.0,2.0,3.0,madera,Alpina,Casastar,
+223.0,2.0,3.0,acero,Modelo 1P T3 R7,Modiko,
+83.0,1.0,2.0,madera,Modelo Kopayti,Grupo CUNI,124500.0
+59.0,1.0,2.0,madera,Modelo CM 10,Casas Nuevas Low Cost,51800.0
+50.0,1.0,3.0,madera,Mariola,Alucasa,67175.0
+52.0,2.0,1.0,madera,Larun,KBOST,
+60.0,1.0,3.0,madera,Modelo 60001,Pro-Gal Construcciones Prefabricadas,60000.0
+183.0,2.0,3.0,madera,Syksy,Forest House,274500.0
+90.0,1.0,3.0,madera,Guadalajara,Mi Casa de Madera,114070.0
+42.0,2.0,3.0,acero,Mobile Home Siurana,ACASATEVA,43500.0
+68.0,1.0,1.0,hormigón,Egeo 1,Modunova,
+96.0,1.0,3.0,madera,Olivia,Mi Casa de Madera,121435.0
+100.0,2.0,3.0,madera,Modelo 100005,Pro-Gal Construcciones Prefabricadas,100000.0
+185.0,3.0,4.0,acero,Modelo 2P T4 R10,Modiko,
+99.0,1.0,3.0,acero,ECO 99.3.1,Wigarma,
+149.0,2.0,3.0,madera,Modelo 1149,GSI Constructora,
+130.0,2.0,3.0,madera,Gandia,Casas Prefabricadas López S.L.,
+25.0,1.0,1.0,madera,Kide,Forest House,35000.0
+258.0,3.0,6.0,madera,R1428,Casastar,
+84.0,1.0,2.0,acero,Project 84G,H.C.I Ecoedificación,
+85.0,1.0,3.0,hormigón,Iria,Modunova,
+187.0,2.0,3.0,madera,Annabel,Las Casas Modulares,265540.0
+10.0,1.0,1.0,madera,Mini,Serena.House,32824.0
+120.0,2.0,3.0,acero,Modelo 120001,Pro-Gal Construcciones Prefabricadas,120000.0
+196.0,2.0,4.0,madera,Gabriela,Las Casas Modulares,278320.0
+69.0,1.0,3.0,madera,Regina,Mi Casa de Madera,89597.0
+200.0,2.0,3.0,hormigón,Gran Modular,Modular-House,
+216.0,3.0,3.0,madera,Catalina,Arboretum Haus,360000.0
+226.0,3.0,4.0,madera,Viaña 226,Madereco,
+107.0,2.0,3.0,madera,Cubo 107,Madercás,
+165.0,3.0,4.0,hormigón,Palawan,Bi·Homes,312142.0
+132.0,2.0,2.0,madera,Casa 132,Madercás,
+78.0,1.0,2.0,acero,ECO 78.2.1,Wigarma,
+137.0,2.0,3.0,acero,Modelo 1P T3 R04,Modiko,
+91.0,2.0,3.0,acero,Project 91,H.C.I Ecoedificación,
+96.0,1.0,2.0,madera,Modelo 1.2,MeniArt,
+130.0,2.0,2.0,madera,Getafe,Casas Prefabricadas López S.L.,
+107.0,2.0,3.0,acero,ECO 107.3.2,Wigarma,
+300.0,5.0,4.0,acero,Eco-Acua,Acero Eco Home,
+74.0,1.0,3.0,madera,Casa 73,Madercás,
+150.0,3.0,4.0,acero,Modelo 150001,Pro-Gal Construcciones Prefabricadas,150000.0
+200.0,2.0,3.0,acero,Modelo 200001,Pro-Gal Construcciones Prefabricadas,200000.0
+171.0,2.0,4.0,acero,Modelo 2P T4 R03,Modiko,
+163.0,2.0,3.0,acero,Modelo 1P T3 U05,Modiko,
+149.0,2.0,3.0,madera,Modelo 1149,GSI Constructora,
+206.0,2.0,3.0,acero,Modelo 1P T3 U02,Modiko,
+31.0,1.0,1.0,madera,Wahbi Standard,Woodville,38500.0
+52.0,2.0,1.0,madera,Larun,KBOST,
+88.0,2.0,3.0,madera,ST MTB Six,Steel Hous,
+189.0,2.0,3.0,madera,WES170P1,WES,273000.0
+254.0,3.0,4.0,"acero,hormigón",Ónice,Atlántida Homes,500200.0
+125.0,2.0,3.0,madera,Elfe,Casastar,
+137.0,2.0,3.0,acero,Modelo 1P T3 R04,Modiko,
+129.0,2.0,4.0,madera,Tinajo,Madelar,
+126.0,2.0,3.0,madera,WES116P1,WES,169000.0
+140.0,2.0,2.0,madera,Marbella,LuxServis Eco Edificaciones,153500.0
+178.0,3.0,4.0,hormigón,Casa Hormipresa M1,Hormipresa Living,
+31.0,1.0,1.0,madera,Wahbi Complex,Woodville,38500.0
+243.0,2.0,3.0,madera,Vila Nort,Kolbeg,376650.0
+157.0,2.0,3.0,acero,Modelo 2P T3 R07,Modiko,
+130.0,2.0,2.0,madera,Getafe,Casas Prefabricadas López S.L.,
+230.0,4.0,4.0,acero,Eco-Playa,Acero Eco Home,
+348.0,1.0,3.0,madera,Astoria M,TUCASAECO SOSTENIBLE,
+100.0,2.0,3.0,acero,Modelo 10001,Pro-Gal Construcciones Prefabricadas,100000.0
+21.0,1.0,1.0,madera,Wahbi Compact,Woodville,35800.0
+35.0,1.0,1.0,madera,Leila 2,Mi Casa de Madera,31580.0
+120.0,2.0,2.0,madera,Espluga de Francolí,Mi Casa de Madera,149710.0
+80.0,2.0,2.0,"acero,hormigón",Casa 2,La Fabrica de Casas,
+215.0,3.0,4.0,acero,Modelo 1P T4 L04,Modiko,
+206.0,4.0,5.0,acero,T15 206 + POD,Atictec,302820.0
+144.0,2.0,4.0,acero,Modelo 2P T4 R06,Modiko,
+47.0,1.0,1.0,"acero,madera",House 130,STUDIOTEC,65800.0
+308.0,3.0,4.0,madera,Diuna,Casastar,
+180.0,1.0,4.0,madera,Sapphire M,TUCASAECO SOSTENIBLE,
+214.0,3.0,3.0,acero,Modelo 2P T4 R01,Modiko,
+140.0,2.0,2.0,madera,Marbella,LuxServis Eco Edificaciones,153500.0
+90.0,1.0,3.0,madera,Huesca,Mi Casa de Madera,114070.0
+242.0,2.0,4.0,madera,Ivalo,Forest House,363000.0
+163.0,2.0,3.0,acero,Modelo 1P T3 U05,Modiko,
+154.0,2.0,3.0,acero,Modelo 1P T3 R02,Modiko,
+80.0,1.0,3.0,madera,Modelo Dalma,Grupo CUNI,120000.0
+81.0,2.0,3.0,madera,Alabama 3D,Alucasa,106865.0
+20.0,1.0,2.0,madera,Penates XL,Serena.House,67087.0
+52.0,2.0,1.0,madera,Larun,KBOST,
+183.0,1.0,4.0,madera,Rosemary M,TUCASAECO SOSTENIBLE,
+176.0,2.0,4.0,madera,Saturn,TUCASAECO SOSTENIBLE,
+342.0,2.0,3.0,madera,Katrin,Kolbeg,530100.0
+102.0,1.0,2.0,madera,Victoria,LuxServis Eco Edificaciones,102400.0
+139.0,2.0,4.0,madera,Tetir,Madelar,
+100.0,2.0,3.0,acero,Modelo 100003,Pro-Gal Construcciones Prefabricadas,100000.0
+84.0,1.0,2.0,madera,Modelo Tukani,Grupo CUNI,126000.0
+115.0,2.0,4.0,madera,Imada,Madelar,
+186.0,3.0,3.0,acero,Keppler,Oyrsa Modular,
+250.0,3.0,4.0,acero,Modelo Passivhaus 250,CSO ARQUITECTURA,333950.0
+80.0,1.0,2.0,hormigón,Modelo T1,"Forpol Estructuras, S.L.",104000.0
+189.0,2.0,3.0,madera,Modelo 190,Nordikasa,
+158.0,2.0,3.0,acero,Modelo 1P T3 L01,Modiko,
+191.0,2.0,4.0,madera,Arinaga,Madelar,
+500.0,6.0,4.0,acero,Modelo Passivhaus 500,CSO ARQUITECTURA,
+146.0,2.0,2.0,madera,R-1398,Casastar,
+38.0,1.0,3.0,madera,Dalia,Alucasa,41270.0
+100.0,2.0,3.0,madera,Modelo 100005,Pro-Gal Construcciones Prefabricadas,100000.0
+182.0,1.0,4.0,madera,Olympia M,TUCASAECO SOSTENIBLE,
+85.0,2.0,3.0,madera,Esther,Mi Casa de Madera,108367.0
+80.0,1.0,2.0,hormigón,Modelo T1,"Forpol Estructuras, S.L.",104000.0
+189.0,2.0,3.0,madera,Modelo 190,Nordikasa,
+158.0,2.0,3.0,acero,Modelo 1P T3 L01,Modiko,
+191.0,2.0,4.0,madera,Arinaga,Madelar,
+500.0,6.0,4.0,acero,Modelo Passivhaus 500,CSO ARQUITECTURA,
+146.0,2.0,2.0,madera,R-1398,Casastar,
+38.0,1.0,3.0,madera,Dalia,Alucasa,41270.0
+100.0,2.0,3.0,madera,Modelo 100005,Pro-Gal Construcciones Prefabricadas,100000.0
+182.0,1.0,4.0,madera,Olympia M,TUCASAECO SOSTENIBLE,
+85.0,2.0,3.0,madera,Esther,Mi Casa de Madera,108367.0
+320.0,4.0,4.0,madera,Ester,Kolbeg,496000.0
+98.0,1.0,2.0,madera,Elisa,Mi Casa de Madera,115376.0
+130.0,2.0,3.0,madera,Gandia,Casas Prefabricadas López S.L.,
+144.0,2.0,2.0,"acero,hormigón",Tundra 2D,Atlántida Homes,314500.0
+150.0,2.0,4.0,acero,Premier,Wigarma,
+45.0,1.0,2.0,acero,Tiny House 45,Proyectos y Modulares,59530.0
+168.0,2.0,3.0,madera,Galaxy M,TUCASAECO SOSTENIBLE,
+42.0,2.0,2.0,acero,Mobile Home Mura,ACASATEVA,42000.0
+154.0,2.0,3.0,acero,Modelo 1P T3 R02,Modiko,
+300.0,5.0,5.0,"acero,hormigón,madera",Modelo T-300,,397510.0
+110.0,2.0,3.0,hormigón,Aries,Modunova,
+131.0,2.0,3.0,madera,Casa Prefabricada 131,Norges Hus,
+228.0,3.0,3.0,acero,T23 228,Atictec,335160.0
+80.0,1.0,2.0,hormigón,Modelo T1,"Forpol Estructuras, S.L.",104000.0
+250.0,3.0,4.0,acero,Modelo Passivhaus 250,CSO ARQUITECTURA,333950.0
+93.0,1.0,3.0,madera,Azul 93,Madercás,
+187.0,2.0,3.0,madera,Annabel,Las Casas Modulares,265540.0
+163.0,2.0,3.0,acero,Modelo 1P T3 U05,Modiko,
+60.0,1.0,1.0,acero,Conjunto Modular 12x3m,Digavasa,36968.0
+150.0,3.0,3.0,acero,Cubic 150,Cubic House,197500.0
+168.0,3.0,4.0,madera,Suances 168,Madereco,
+161.0,2.0,2.0,acero,Modelo 1P T2 L03,Modiko,
+235.0,3.0,4.0,hormigón,Barbados,Bi·Homes,431319.0
+302.0,3.0,3.0,acero,Modelo 2P T3 L02,Modiko,
+207.0,2.0,3.0,madera,Modelo 170,Nordikasa,
+94.0,2.0,2.0,madera,Tirma,Madelar,
+94.0,2.0,3.0,acero,Nilo,Cases Caliu,
+159.0,3.0,3.0,madera,Modelo TKM-204,Tokamadera,230550.0
+310.0,4.0,4.0,acero,Eco-Zen,Acero Eco Home,
+35.0,1.0,1.0,madera,Leila 2,Mi Casa de Madera,31580.0
+127.0,2.0,3.0,madera,Zurita 127,Madereco,
+47.0,1.0,1.0,"acero,madera",House 130,STUDIOTEC,65800.0
+90.0,2.0,3.0,acero,Serie Nilo,DE40 PIES. Casas Container,
+250.0,3.0,4.0,acero,Modelo Passivhaus 250,CSO ARQUITECTURA,331500.0
+150.0,1.0,2.0,madera,Bilbao,LuxServis Eco Edificaciones,150000.0
+122.0,1.0,2.0,madera,Aracena,Casas Prefabricadas López S.L.,
+220.0,1.0,4.0,madera,Honor M,TUCASAECO SOSTENIBLE,
+108.0,2.0,2.0,acero,Modelo Viñedo Passivhaus,CSO ARQUITECTURA,177950.0
+228.0,3.0,4.0,"acero,hormigón",Duna 4D,Atlántida Homes,426300.0
+118.0,2.0,3.0,madera,Santillana 118,Madereco,
+132.0,2.0,2.0,madera,Casa 132,Madercás,
+145.0,2.0,3.0,acero,PREMIER 145.3.2,Wigarma,
+159.0,3.0,3.0,madera,Modelo TKM-284,Tokamadera,230550.0
+38.0,1.0,2.0,madera,Atlántico,Alucasa,54360.0
+393.0,2.0,3.0,madera,Vitoria,LuxServis Eco Edificaciones,393000.0
+180.0,1.0,3.0,madera,Denia,LuxServis Eco Edificaciones,180000.0
+102.0,2.0,2.0,acero,Hipatia,Oyrsa Modular,
+228.0,2.0,5.0,acero,Modelo 1P T5 R01,Modiko,
+40.0,1.0,1.0,acero,Tiny House 40,Proyectos y Modulares,50600.0
+140.0,2.0,3.0,madera,Szyper 3,Casastar,
+110.0,1.0,2.0,madera,Markki 1-storey,Forest House,165000.0
+158.0,1.0,1.0,madera,Casa prefabricada 158,Norges Hus,
+228.0,2.0,5.0,acero,Modelo 1P T5 R01,Modiko,
+320.0,4.0,4.0,madera,Ester,Kolbeg,496000.0
+40.0,1.0,2.0,"acero,madera",Mobilhome KVIP 2,Grupo CUNI,60000.0
+221.0,3.0,3.0,madera,Tuluza,Casastar,
+75.0,1.0,2.0,hormigón,Modular Medium,Modular-House,
+75.0,1.0,3.0,madera,A – Young+,Maslow Homes,
+102.0,2.0,2.0,acero,Hipatia,Oyrsa Modular,
+111.0,2.0,3.0,madera,France,TUCASAECO SOSTENIBLE,
+107.0,2.0,3.0,acero,ECO 107.3.2,Wigarma,
+90.0,1.0,3.0,madera,Guadalajara,Mi Casa de Madera,114070.0
+30.0,1.0,2.0,madera,ST MTB Five,Steel Hous,
+30.0,1.0,1.0,madera,Marka,Mi Casa de Madera,26700.0
+207.0,2.0,3.0,madera,Lark M,TUCASAECO SOSTENIBLE,
+245.0,2.0,3.0,acero,Modelo 1P T3 R08,Modiko,
+150.0,2.0,3.0,"acero,hormigón,madera",Modelo T-150,ZAEROWORKING SL,222905.0
+251.0,3.0,5.0,madera,Malibu,Casastar,
+296.0,3.0,4.0,madera,Modelo TKM-214,Tokamadera,429200.0
+130.0,2.0,2.0,acero,Modelo 1P T2 R04,Modiko,
+103.0,2.0,3.0,acero,Project 103 CP,H.C.I Ecoedificación,
+40.0,1.0,4.0,hormigón,Modelo Txoko,"Forpol Estructuras, S.L.",52000.0
+176.0,2.0,1.0,madera,Saturn,TUCASAECO SOSTENIBLE,
+26.0,1.0,4.0,madera,Leila 1,Mi Casa de Madera,23030.0
+150.0,4.0,3.0,"acero,hormigón,madera",Modelo S-150,,227782.0
+85.0,2.0,1.0,madera,INDIANA,Alucasa,104730.0
+35.0,1.0,3.0,madera,ST MTB One,Steel Hous,
+85.0,1.0,3.0,hormigón,Iria,Modunova,
+179.0,1.0,3.0,madera,Domus M,TUCASAECO SOSTENIBLE,
+94.0,2.0,4.0,acero,Nilo,Cases Caliu,
+141.0,2.0,4.0,madera,Casa Prefabricada 141,Norges Hus,
+217.0,3.0,3.0,madera,Provans,Casastar,
+85.0,2.0,2.0,madera,INDIANA,Alucasa,104730.0
+105.0,2.0,3.0,acero,Vivienda en contenedor,H.C.I Ecoedificación,
+48.0,1.0,4.0,acero,Conjunto Modular 8x6m,Digavasa,
+80.0,1.0,3.0,madera,Modelo Dalma,Grupo CUNI,120000.0
+150.0,4.0,4.0,"acero,hormigón,madera",Modelo S-150,,227782.0
+219.0,3.0,3.0,madera,WES206P2,WES,291500.0
+178.0,3.0,3.0,hormigón,Casa Hormipresa M1,Hormipresa Living,
+216.0,3.0,1.0,madera,Catalina,Arboretum Haus,360000.0
+207.0,2.0,1.0,madera,Modelo 170,Nordikasa,
+52.0,1.0,1.0,madera,T – Cabin,Maslow Homes,
+40.0,1.0,1.0,madera,Modelo 2.1,MeniArt,69000.0
+26.0,1.0,4.0,madera,Leila 1,Mi Casa de Madera,23030.0
+48.0,1.0,2.0,acero,Conjunto Modular 8x6m,Digavasa,
+148.0,1.0,3.0,madera,Piter,Kolbeg,229400.0
+349.0,3.0,3.0,madera,Victoria,Casastar,
+105.0,1.0,2.0,madera,Modelo 1105,GSI Constructora,
+55.0,2.0,3.0,acero,Mobile Home Beget,ACASATEVA,63000.0
+120.0,1.0,3.0,madera,Tarragona,Mi Casa de Madera,149710.0
+50.0,1.0,3.0,hormigón,Brisa Porche,Modunova,
+93.0,1.0,2.0,acero,ECO 93.3.1,Wigarma,
+148.0,2.0,4.0,madera,Casa prefabricada 148,Norges Hus,
+131.0,2.0,3.0,madera,WES121P1,WES,195000.0
+36.0,1.0,5.0,acero,Campus,Casas Prefabricadas López S.L.,
+214.0,2.0,3.0,acero,T14 214,Atictec,314580.0
+186.0,3.0,2.0,acero,Keppler,Oyrsa Modular,
+170.0,3.0,3.0,madera,Dolores,Las Casas Modulares,241400.0
+342.0,2.0,1.0,madera,Katrin,Kolbeg,530100.0
+54.0,1.0,3.0,acero,SORIA modular,Cortabitarte,44900.0
+174.0,2.0,4.0,madera,Suomi,Casastar,
+45.0,1.0,2.0,acero,Cubic 45,Cubic House,55854.0
+107.0,2.0,2.0,madera,Modelo Victoria,Grupo CUNI,160500.0
+182.0,1.0,2.0,madera,Olympia M,TUCASAECO SOSTENIBLE,
+58.0,1.0,2.0,madera,Castellon,Mi Casa de Madera,75578.0
+60.0,1.0,3.0,acero,Serie Tajo,DE40 PIES. Casas Container,
+27.0,1.0,4.0,"acero,madera,Casetas",OKA room I sauna,OKA Room,27000.0
+36.0,1.0,3.0,acero,Laila,Casas Prefabricadas López S.L.,
+102.0,1.0,2.0,acero,ECO-LINEA 102.3.1,Wigarma,
+245.0,3.0,4.0,madera,Lotos,Casastar,
+96.0,1.0,2.0,madera,Olivia,Mi Casa de Madera,121435.0
+130.0,2.0,4.0,acero,Modelo 1P T3 L05,Modiko,
+179.0,2.0,4.0,hormigón,Asimétrica,Modunova,
+61.0,1.0,6.0,acero,Project 61 CP,H.C.I Ecoedificación,
+130.0,2.0,3.0,madera,Merida,Casas Prefabricadas López S.L.,
+215.0,3.0,3.0,madera,Denver,Casastar,
+258.0,3.0,2.0,madera,R1428,Casastar,
+165.0,2.0,3.0,"acero,hormigón",Tundra 3D,Atlántida Homes,353500.0
+91.0,2.0,4.0,acero,Project 91,H.C.I Ecoedificación,
+55.0,1.0,4.0,madera,Modelo 55003,Pro-Gal Construcciones Prefabricadas,55000.0
+150.0,2.0,2.0,"acero,hormigón,madera",Modelo T-150,ZAEROWORKING SL,222905.0
+176.0,1.0,3.0,madera,Atris M,TUCASAECO SOSTENIBLE,
+120.0,2.0,3.0,"acero,hormigón",Casa 3,La Fabrica de Casas,
+191.0,2.0,3.0,madera,Muster,TUCASAECO SOSTENIBLE,
+100.0,2.0,1.0,acero,Modelo 1,ACASATEVA,120000.0
+88.0,2.0,3.0,madera,Heijastus,Forest House,122500.0
+100.0,2.0,4.0,"acero,hormigón,madera",Modelo T-100,,150871.0
+35.0,1.0,3.0,madera,ST MTB One,Steel Hous,
+132.0,2.0,4.0,madera,Astoria Lux,Casastar,
+150.0,2.0,3.0,acero,Serie Mediterráneo,DE40 PIES. Casas Container,
+85.0,1.0,3.0,hormigón,Iria,Modunova,
+207.0,1.0,3.0,madera,Danube,TUCASAECO SOSTENIBLE,
+349.0,2.0,5.0,madera,Barcelona,LuxServis Eco Edificaciones,349000.0
+66.0,1.0,3.0,madera,Modelo Kempes,MonteBálsamo,
+148.0,2.0,3.0,madera,Casa prefabricada 148,Norges Hus,
+389.0,3.0,2.0,madera,Versal,Casastar,
+150.0,2.0,3.0,"acero,hormigón",Cala 3D,Atlántida Homes,342400.0
+121.0,2.0,2.0,madera,WES113P1,WES,179500.0
+30.0,1.0,3.0,acero,Chiclana,Casas Prefabricadas López S.L.,
+107.0,2.0,4.0,madera,Modelo Victoria,Grupo CUNI,160500.0
+42.0,2.0,3.0,acero,Mobile Home Mura,ACASATEVA,42000.0
+38.0,1.0,3.0,madera,Dalia,Alucasa,41270.0
+96.0,1.0,4.0,madera,Modelo Primavera,MonteBálsamo,
+165.0,2.0,2.0,acero,Galileo,Oyrsa Modular,
+348.0,1.0,1.0,madera,Astoria M,TUCASAECO SOSTENIBLE,
+144.0,2.0,2.0,acero,Modelo 2P T4 R06,Modiko,
+88.0,1.0,5.0,madera,Casa 88,Madercás,
+52.0,1.0,2.0,madera,T – Cabin,Maslow Homes,
+169.0,2.0,4.0,acero,Eratóstenes,Oyrsa Modular,
+170.0,3.0,4.0,acero,Burgo de Osma,Soria Modular,
+44.0,1.0,4.0,acero,Soria,Cortabitarte,37500.0
+176.0,3.0,3.0,madera,Paula,Las Casas Modulares,249920.0
+207.0,3.0,3.0,"acero,hormigón",Delta,Atlántida Homes,436700.0
+178.0,3.0,3.0,hormigón,Casa Hormipresa L1,Hormipresa Living,249200.0
+69.0,1.0,4.0,madera,Regina,Mi Casa de Madera,89597.0
+126.0,2.0,3.0,acero,Modelo 2P T3 R10,Modiko,
+148.0,2.0,4.0,madera,Macon,Casastar,
+349.0,3.0,2.0,madera,Victoria,Casastar,
+156.0,2.0,3.0,hormigón,Modelo Abla,Diseño Modular,179400.0
+165.0,3.0,3.0,acero,Eco-Arena,Acero Eco Home,
+98.0,1.0,4.0,madera,Elisa,Mi Casa de Madera,115376.0
+94.0,2.0,2.0,acero,Nilo,Cases Caliu,
+131.0,2.0,3.0,madera,WES121P1,WES,195000.0
+113.0,1.0,3.0,madera,Chelé,Madelar,
+84.0,1.0,4.0,acero,Project 84G,H.C.I Ecoedificación,
+120.0,1.0,4.0,madera,Tarragona,Mi Casa de Madera,149710.0
+163.0,2.0,4.0,acero,Modelo 1P T3 U05,Modiko,
+296.0,3.0,3.0,madera,Modelo TKM-214,Tokamadera,429200.0
+247.0,3.0,3.0,acero,Tycho,Oyrsa Modular,
+254.0,3.0,2.0,"acero,hormigón",Ónice,Atlántida Homes,500200.0
+38.0,1.0,2.0,madera,Dalia,Alucasa,41270.0
+125.0,2.0,2.0,acero,Modelo 2P,ACASATEVA,
+63.0,1.0,1.0,madera,Vitoria,Mi Casa de Madera,155650.0
+182.0,2.0,2.0,acero,Tajo,Cases Caliu,
+60.0,1.0,3.0,madera,Modelo TKM-208,Tokamadera,263900.0
+40.0,1.0,3.0,madera,Evelyn,Mi Casa de Madera,78430.0
+60.0,1.0,3.0,acero,Tiny House 40,Proyectos y Modulares,50600.0
+144.0,2.0,1.0,madera,Barcelona,Mi Casa de Madera,78430.0
+146.0,3.0,2.0,madera,WES132P1,WES,221000.0
+74.0,1.0,4.0,madera,Modelo Premium Ter,ABS American Building System,192980.0
+25.0,1.0,2.0,madera,Casa 73,Madercás,
+59.0,1.0,3.0,madera,Kide,Forest House,35000.0
+298.0,3.0,2.0,madera,Modelo CM 10,Casas Nuevas Low Cost,51800.0
+55.0,1.0,3.0,madera,Badajoz 298,Madereco,
+120.0,1.0,3.0,madera,Modelo 55003,Pro-Gal Construcciones Prefabricadas,55000.0
+70.0,1.0,3.0,madera,Tarragona,Mi Casa de Madera,149710.0
+110.0,1.0,1.0,madera,Pamplona,Mi Casa de Madera,84910.0
+91.0,2.0,3.0,madera,Toledo,Mi Casa de Madera,137830.0
+206.0,2.0,1.0,acero,Project 91,H.C.I Ecoedificación,
+40.0,1.0,2.0,acero,Modelo 1P T3 U02,Modiko,
+98.0,2.0,3.0,madera,Modelo 2.1,MeniArt,69000.0
+15.0,1.0,3.0,acero,Eco-Live,Acero Eco Home,
+86.0,1.0,3.0,acero,Tiny House 15,Proyectos y Modulares,20878.0
+86.0,1.0,3.0,acero,ECO 86.2.1,Wigarma,
+95.0,2.0,2.0,acero,ECO 86.3.1,Wigarma,
+118.0,2.0,5.0,madera,Modelo 1.6,MeniArt,
+68.0,1.0,3.0,madera,Santillana 118,Madereco,
+85.0,2.0,4.0,madera,Satori,Alucasa,92715.0
+180.0,3.0,2.0,madera,Britta,Mi Casa de Madera,107536.0
+120.0,1.0,4.0,acero,Serie Pacífico,DE40 PIES. Casas Container,
+230.0,2.0,3.0,madera,Tarragona,Mi Casa de Madera,149710.0
+90.0,1.0,4.0,acero,Modelo 2P T4 R09,Modiko,
+260.0,4.0,2.0,madera,Modelo TKM-201,Tokamadera,130500.0
+120.0,3.0,1.0,madera,Noja 260,Madereco,
+142.0,2.0,3.0,acero,Garray,Cortabitarte,137500.0
+224.0,2.0,3.0,madera,Modelo 1.5,MeniArt,
+10.0,1.0,4.0,madera,Modelo 170,GSI Constructora,
+116.0,1.0,2.0,madera,Mini Plus,Serena.House,39811.0
+107.0,2.0,2.0,madera,Modelo Texas,Grupo CUNI,174000.0
+150.0,2.0,3.0,madera,WES99P1,WES,151500.0
+30.0,1.0,2.0,madera,Kuja,Forest House,225000.0
+110.0,1.0,2.0,madera,ST MTB Five,Steel Hous,
+81.0,2.0,3.0,acero,Flora,Casas Prefabricadas López S.L.,
+40.0,1.0,2.0,madera,Alabama 3D,Alucasa,106865.0
+88.0,1.0,3.0,madera,Denia,Alucasa,53400.0
+86.0,1.0,2.0,madera,Bezana 88,Madereco,
+70.0,2.0,3.0,acero,Dombellas,Cortabitarte,72800.0
+243.0,2.0,2.0,acero,Modelo 70002,Pro-Gal Construcciones Prefabricadas,70000.0
+98.0,1.0,3.0,madera,Vila Nort,Kolbeg,376650.0
+267.0,4.0,4.0,madera,Elisa,Mi Casa de Madera,115376.0
+55.0,1.0,1.0,madera,Simon,Kolbeg,413850.0
+167.0,2.0,2.0,hormigón,Alisio Porche,Modunova,
+235.0,3.0,2.0,madera,Modelo TKM-286,Tokamadera,242150.0
+40.0,1.0,3.0,hormigón,Casa Hormipresa L6,Hormipresa Living,
+150.0,3.0,3.0,acero,Jerez,Casas Prefabricadas López S.L.,
+143.0,2.0,1.0,madera,Modelo TKM-206,Tokamadera,217500.0
+102.0,1.0,3.0,madera,Aus,TUCASAECO SOSTENIBLE,
+145.0,2.0,1.0,acero,ECO-LINEA 102.3.1,Wigarma,
+20.0,1.0,3.0,acero,PREMIER 145.3.2,Wigarma,
+95.0,2.0,3.0,"acero,madera",ST MTB T,Steel Hous,
+45.0,1.0,4.0,hormigón,Egeo 3,Modunova,
+55.0,2.0,4.0,madera,Caldas 45,Madereco,
+85.0,2.0,2.0,acero,Mobile Home Beget,ACASATEVA,63000.0
+177.0,3.0,3.0,madera,Esther,Mi Casa de Madera,108367.0
+215.0,3.0,4.0,madera,Lucia,Las Casas Modulares,251340.0
+72.0,1.0,2.0,acero,Modelo 1P T4 L04,Modiko,
+107.0,2.0,4.0,"acero,hormigón",La Manga,Home Center,66460.0
+207.0,1.0,4.0,madera,WES99P1,WES,151500.0
+150.0,1.0,3.0,madera,Danube,TUCASAECO SOSTENIBLE,
+228.0,2.0,4.0,madera,Bilbao,LuxServis Eco Edificaciones,150000.0
+185.0,2.0,2.0,hormigón,Alpha,Modunova,
+110.0,1.0,2.0,madera,Markki 2-storey,Forest House,277500.0
+178.0,3.0,4.0,madera,Toledo,Mi Casa de Madera,137830.0
+38.0,1.0,2.0,hormigón,Casa Hormipresa M1,Hormipresa Living,
+50.0,1.0,4.0,madera,Nepal V1,Alucasa,47050.0
+130.0,3.0,4.0,hormigón,Modelo A2,"Forpol Estructuras, S.L.",65000.0
+90.0,1.0,4.0,madera,Barcelona,Casas Prefabricadas López S.L.,
+198.0,3.0,3.0,acero,Cubic 90,Cubic House,145133.0
+246.0,3.0,2.0,acero,Project 198,H.C.I Ecoedificación,
+227.0,3.0,1.0,madera,Modelo 220,Nordikasa,
+126.0,3.0,2.0,"acero,hormigón",Vega,Atlántida Homes,467000.0
+88.0,1.0,3.0,madera,Chirche,Madelar,
+25.0,1.0,2.0,madera,Modelo Tournel,Grupo CUNI,132000.0
+124.0,2.0,2.0,madera,Kide,Forest House,35000.0
+106.0,2.0,3.0,acero,Fuentetoba,Soria Modular,
+56.0,1.0,3.0,hormigón,Polaris,Modunova,
+90.0,1.0,4.0,madera,Casa 56,Madercás,
+245.0,2.0,4.0,acero,Cubic 90,Cubic House,145133.0
+99.0,2.0,3.0,acero,Modelo 1P T3 R08,Modiko,
+340.0,3.0,2.0,acero,ECO 99.3.2,Wigarma,
+150.0,2.0,3.0,madera,Modelo 285,GSI Constructora,
+107.0,2.0,3.0,acero,Serie Mediterráneo,DE40 PIES. Casas Container,
+151.0,3.0,4.0,acero,ECO 107.3.2,Wigarma,
+85.0,2.0,3.0,"acero,madera",House 520,STUDIOTEC,211400.0
+169.0,2.0,3.0,madera,Esther,Mi Casa de Madera,108367.0
+167.0,2.0,4.0,madera,Isabella,Las Casas Modulares,239980.0
+393.0,2.0,2.0,madera,Ink,Forest House,250500.0
+90.0,1.0,3.0,madera,Vitoria,LuxServis Eco Edificaciones,393000.0
+371.0,4.0,4.0,madera,Huesca,Mi Casa de Madera,114070.0
+50.0,1.0,5.0,madera,Miengo 370,Madereco,
+183.0,2.0,3.0,hormigón,Brisa Porche,Modunova,
+210.0,3.0,3.0,madera,Syksy,Forest House,274500.0
+298.0,3.0,3.0,hormigón,Casa Hormipresa M2,Hormipresa Living,294000.0
+127.0,2.0,4.0,madera,Clave,Casastar,
+68.0,1.0,1.0,madera,Zurita 127,Madereco,
+85.0,1.0,4.0,madera,Modelo CM 20,Casas Nuevas Low Cost,56800.0
+254.0,3.0,3.0,madera,Casa 85,Madercás,
+40.0,1.0,1.0,"acero,hormigón",Ónice,Atlántida Homes,500200.0
+134.0,2.0,2.0,madera,Paula,Mi Casa de Madera,39300.0
+156.0,2.0,3.0,madera,Angelina,Las Casas Modulares,190280.0
+198.0,1.0,3.0,hormigón,Modelo Abla,Diseño Modular,179400.0
+173.0,2.0,4.0,madera,OKA Suvila,OKA Room,26000.0
+243.0,1.0,1.0,madera,Modelo 162,GSI Constructora,
+218.0,3.0,2.0,madera,Victoria,TUCASAECO SOSTENIBLE,
+176.0,1.0,2.0,madera,Modelo TKM-202,Tokamadera,316100.0
+24.0,1.0,3.0,madera,Atris M,TUCASAECO SOSTENIBLE,
+49.0,1.0,3.0,madera,OKA Plus,OKA Room,28000.0
+20.0,1.0,1.0,acero,Mobile Home Aran,ACASATEVA,61000.0
+103.0,1.0,3.0,madera,Penates XL,Serena.House,67087.0
+100.0,2.0,2.0,madera,Hossegor,KBOST,
+52.0,2.0,4.0,madera,Modelo 100005,Pro-Gal Construcciones Prefabricadas,100000.0
+158.0,2.0,2.0,madera,Larun,KBOST,
+84.0,1.0,3.0,acero,Modelo 1P T3 L01,Modiko,
+298.0,3.0,2.0,madera,Visitante,Casastar,
+64.0,1.0,,madera,Badajoz 298,Madereco,
+174.0,2.0,,madera,Casa 64,Madercás,
+36.0,1.0,,madera,Casa prefabricada 174,Norges Hus,
+,,,acero,Campus,Casas Prefabricadas López S.L.,
