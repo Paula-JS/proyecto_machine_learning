@@ -1,11 +1,10 @@
-#importamos las librerías necesarias
 import streamlit as st
 import pandas as pd
 import numpy as np
-import pickle
-from flask import Flask, request, jsonify, render_template, url_for
 import sklearn
 from sklearn.preprocessing import StandardScaler
+from flask import Flask, request, jsonify, render_template, url_for
+import pickle
 
 st.set_page_config(
     page_title="Precios Casas Prefabricadas APP",
