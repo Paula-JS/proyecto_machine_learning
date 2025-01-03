@@ -18,8 +18,8 @@ col1, col2 = st.columns(2)
 
 with col1:
     # Path del modelo preentrenado
-    MODEL_PATH = "../modelo/modelo_prediccion_precios_casas_prefab.pkl"
-    SCALER_PATH = "../modelo/scaler.pkl"
+    MODEL_PATH = "../modelo/modelo_xgb.pkl"
+    SCALER_PATH = "../modelo/scaler_xgb.pkl"
 
     # Función que devuelve la predicción
     def model_prediction(x_in, model, scaler):
